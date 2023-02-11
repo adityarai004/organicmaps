@@ -38,6 +38,17 @@
 	<string name="country_status_download_failed">دانلود با شکست مواجه شد</string>
 	<!-- Button text for the button under the country_status_download_failed message -->
 	<string name="try_again">تلاش مجدد</string>
+	<string name="about_menu_title">Organic Maps درباره‌ی</string>
+	<!-- Text in About screen -->
+	<string name="about_proposition_1">ﺕﺭﺎﻈﻧ ﻥﻭﺪﺑ ،ﯽﺑﺎﯾﺩﺭ ﻥﻭﺪﺑ ،ﺕﺎﻐﯿﻠﺒﺗ ﻥﻭﺪﺑ •</string>
+	<!-- Text in About screen -->
+	<string name="about_proposition_2">• ﺪﻨﮐ ﯽﻤﻧ ﯽﻟﺎﺧ ﺍﺭ ﯼﺮﺗﺎﺑ</string>
+	<!-- Text in About screen -->
+	<string name="about_proposition_3">ﯽﺘﺴﯿﻟﺎﻤﯿﻨﯿﻣ ﻭ ﻊﯾﺮﺳ •</string>
+	<!-- Text in About screen -->
+	<string name="about_developed_by_enthusiasts">.ﺯﺎﺑ ﻊﺒﻨﻣ ﻪﻌﻣﺎﺟ ﺯﺍ ﻥﺍﺪﻨﻣ ﻪﻗﻼﻋ ﻂﺳﻮﺗ ﻩﺪﺷ ﺩﺎﺠﯾﺍ</string>
+	<!-- Text in About screen -->
+	<string name="about_report_to_osm">.ﺪﯿﻨﮐ ﻑﺮﻃﺮﺑ OpenStreetMap.org ﺭﺩ ﺍﺭ ﻪﺸﻘﻧ ﯼﺎﻫ ﻩﺩﺍﺩ ﺕﻼﮑﺸﻣ</string>
 	<string name="connection_settings">تنظیمات اتصال</string>
 	<string name="close">بستن</string>
 	<string name="unsupported_phone">نیازمند است. متاسفانه دستگاه شما از آن پشتیبانی نمی‌کندOpenGLبرنامه برای اجرا به</string>
@@ -212,7 +223,7 @@
 	<!-- Button in the main menu -->
 	<string name="donate">حمایت مالی</string>
 	<!-- Button in the main Help dialog -->
-	<string name="how_to_support_us">چگونه از ما حمایت کنیم؟</string>
+	<string name="how_to_support_us">ﺪﯿﻨﮐ ﺖﯾﺎﻤﺣ ﻩﮊﻭﺮﭘ ﺯﺍ</string>
 	<!-- Button in the main Help dialog -->
 	<string name="copyright">حق نشر و کپی رایت</string>
 	<!-- Text in menu + Button in the main Help dialog -->

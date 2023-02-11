@@ -37,6 +37,17 @@
 	<string name="country_status_download_failed">Lataus epäonnistui</string>
 	<!-- Button text for the button under the country_status_download_failed message -->
 	<string name="try_again">Yritä uudelleen</string>
+	<string name="about_menu_title">Tietoa Organic Maps:stä</string>
+	<!-- Text in About screen -->
+	<string name="about_proposition_1">• Ei mainoksia, ei seurantaa</string>
+	<!-- Text in About screen -->
+	<string name="about_proposition_2">• Ei tyhjennä akkua</string>
+	<!-- Text in About screen -->
+	<string name="about_proposition_3">• Nopea ja minimalistinen</string>
+	<!-- Text in About screen -->
+	<string name="about_developed_by_enthusiasts">Avoimen lähdekoodin yhteisön harrastajien luoma.</string>
+	<!-- Text in About screen -->
+	<string name="about_report_to_osm">Korjaa karttatietoongelmia osoitteessa OpenStreetMap.org.</string>
 	<string name="connection_settings">Yhteysasetukset</string>
 	<string name="close">Sulje</string>
 	<string name="unsupported_phone">Laitteistokiihdytetty OpenGL vaaditaan. Valitettavasti laitteesi ei ole tuettu.</string>
@@ -225,7 +236,7 @@
 	<!-- Button in the main menu -->
 	<string name="donate">Lahjoittaa</string>
 	<!-- Button in the main Help dialog -->
-	<string name="how_to_support_us">Kuinka tukea meitä?</string>
+	<string name="how_to_support_us">Tue projektia</string>
 	<!-- Button in the main Help dialog -->
 	<string name="copyright">Tekijänoikeudet</string>
 	<!-- Text in menu + Button in the main Help dialog -->

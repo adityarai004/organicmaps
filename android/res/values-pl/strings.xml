@@ -35,6 +35,17 @@
 	<string name="country_status_download_failed">Nie udało się pobrać</string>
 	<!-- Button text for the button under the country_status_download_failed message -->
 	<string name="try_again">Spróbuj ponownie</string>
+	<string name="about_menu_title">O aplikacji Organic Maps</string>
+	<!-- Text in About screen -->
+	<string name="about_proposition_1">• Brak reklam, brak śledzenia</string>
+	<!-- Text in About screen -->
+	<string name="about_proposition_2">• Nie drenuje baterii</string>
+	<!-- Text in About screen -->
+	<string name="about_proposition_3">• Szybki i minimalistyczny</string>
+	<!-- Text in About screen -->
+	<string name="about_developed_by_enthusiasts">Stworzony przez entuzjastów ze społeczności open source.</string>
+	<!-- Text in About screen -->
+	<string name="about_report_to_osm">Napraw problemy z danymi mapy na OpenStreetMap.org.</string>
 	<string name="connection_settings">Ustawienia połączenia</string>
 	<string name="close">Zamknij</string>
 	<string name="unsupported_phone">Wymagana jest sprzętowa akceleracja OpenGL. Aktualne urządzenie nie jest obsługiwane.</string>
@@ -238,7 +249,7 @@
 	<!-- Button in the main menu -->
 	<string name="donate">Wspomóż</string>
 	<!-- Button in the main Help dialog -->
-	<string name="how_to_support_us">Jak nas wspierać?</string>
+	<string name="how_to_support_us">Wesprzyj projekt</string>
 	<!-- Button in the main Help dialog -->
 	<string name="copyright">Prawa autorskie</string>
 	<!-- Text in menu + Button in the main Help dialog -->

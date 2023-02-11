@@ -35,6 +35,17 @@
 	<string name="country_status_download_failed">Letöltése sikertelen</string>
 	<!-- Button text for the button under the country_status_download_failed message -->
 	<string name="try_again">Újrapróbálkozás</string>
+	<string name="about_menu_title">A Organic Maps programról</string>
+	<!-- Text in About screen -->
+	<string name="about_proposition_1">• Nincs nyomkövetés, nincsenek hirdetések</string>
+	<!-- Text in About screen -->
+	<string name="about_proposition_2">• Nem meríti le az akkumulátort</string>
+	<!-- Text in About screen -->
+	<string name="about_proposition_3">• Gyors és minimalista</string>
+	<!-- Text in About screen -->
+	<string name="about_developed_by_enthusiasts">A nyílt forráskódú közösség rajongói készítettek.</string>
+	<!-- Text in About screen -->
+	<string name="about_report_to_osm">Javítsa ki a térképadatokkal kapcsolatos problémákat az OpenStreetMap.org webhelyen.</string>
 	<string name="connection_settings">Kapcsolat beállítások</string>
 	<string name="close">Bezár</string>
 	<string name="unsupported_phone">Hardware-s gyorsítású OpenGL szükséges. Sajnos az Ön eszköze nem támogatott.</string>
@@ -219,7 +230,7 @@
 	<!-- Button in the main menu -->
 	<string name="donate">Adományozni</string>
 	<!-- Button in the main Help dialog -->
-	<string name="how_to_support_us">Hogyan támogathatsz minket?</string>
+	<string name="how_to_support_us">Támogassa a projektet</string>
 	<!-- Button in the main Help dialog -->
 	<string name="copyright">Szerzői jog</string>
 	<!-- Text in menu + Button in the main Help dialog -->

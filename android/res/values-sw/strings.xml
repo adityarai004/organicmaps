@@ -4,6 +4,16 @@
 <!-- Language: sw -->
 <resources>
 	<!-- SECTION: Strings -->
+	<!-- Text in About screen -->
+	<string name="about_proposition_1">• Hakuna matangazo, hakuna ufuatiliaji</string>
+	<!-- Text in About screen -->
+	<string name="about_proposition_2">• Haimalizi betri</string>
+	<!-- Text in About screen -->
+	<string name="about_proposition_3">• Haraka na minimalist</string>
+	<!-- Text in About screen -->
+	<string name="about_developed_by_enthusiasts">Imeundwa na wakereketwa kutoka kwa jumuiya ya chanzo huria.</string>
+	<!-- Text in About screen -->
+	<string name="about_report_to_osm">Rekebisha masuala ya data ya ramani katika OpenStreetMap.org.</string>
 	<!-- Header of settings activity where user defines storage path -->
 	<string name="maps_storage">Hifadhi ramani kwenye</string>
 
@@ -33,7 +43,7 @@
 	<!-- Button in the main menu -->
 	<string name="donate">Changia</string>
 	<!-- Button in the main Help dialog -->
-	<string name="how_to_support_us">Jinsi ya kutuunga mkono?</string>
+	<string name="how_to_support_us">Saidia mradi</string>
 	<!-- Preference title -->
 	<string name="google_play_services">Huduma za Google Play</string>
 	<!-- deep purple color -->

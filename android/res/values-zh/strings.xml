@@ -35,6 +35,17 @@
 	<string name="country_status_download_failed">下载失败</string>
 	<!-- Button text for the button under the country_status_download_failed message -->
 	<string name="try_again">重试</string>
+	<string name="about_menu_title">关于 Organic Maps</string>
+	<!-- Text in About screen -->
+	<string name="about_proposition_1">• 无广告、无跟踪、无数据收集</string>
+	<!-- Text in About screen -->
+	<string name="about_proposition_2">• 不会耗尽电池</string>
+	<!-- Text in About screen -->
+	<string name="about_proposition_3">• 快速和简约</string>
+	<!-- Text in About screen -->
+	<string name="about_developed_by_enthusiasts">由开源社区的爱好者创建.</string>
+	<!-- Text in About screen -->
+	<string name="about_report_to_osm">修复 OpenStreetMap.org 上的地图数据问题。</string>
 	<string name="connection_settings">连接设置</string>
 	<string name="close">关闭</string>
 	<string name="unsupported_phone">硬件加速的 OpenGL 是必需的。遗憾的是您的设备不支持此功能。</string>
@@ -227,7 +238,7 @@
 	<!-- Button in the main menu -->
 	<string name="donate">捐</string>
 	<!-- Button in the main Help dialog -->
-	<string name="how_to_support_us">如何支持我们？</string>
+	<string name="how_to_support_us">支持项目</string>
 	<!-- Button in the main Help dialog -->
 	<string name="copyright">版权</string>
 	<!-- Text in menu + Button in the main Help dialog -->

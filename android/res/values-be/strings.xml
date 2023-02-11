@@ -38,6 +38,17 @@
 	<string name="country_status_download_failed">Спампоўка не атрымалася</string>
 	<!-- Button text for the button under the country_status_download_failed message -->
 	<string name="try_again">Паспрабаваць зноў</string>
+	<string name="about_menu_title">Аб дадатку Organic Maps</string>
+	<!-- Text in About screen -->
+	<string name="about_proposition_1">• Няма рэкламы, няма адсочвання</string>
+	<!-- Text in About screen -->
+	<string name="about_proposition_2">• Не разраджае батарэю</string>
+	<!-- Text in About screen -->
+	<string name="about_proposition_3">• Хуткі і мінімалістычны</string>
+	<!-- Text in About screen -->
+	<string name="about_developed_by_enthusiasts">Створана энтузіястамі з супольнасці адкрытых праграм.</string>
+	<!-- Text in About screen -->
+	<string name="about_report_to_osm">Вырашыце праблемы з дадзенымі карты на OpenStreetMap.org.</string>
 	<string name="connection_settings">Налады злучэння</string>
 	<string name="close">Зачыніць</string>
 	<string name="unsupported_phone">Дадатак патрабуе апаратна паскоранага OpenGL. Нажаль, ваша прылада не падтрымліваецца.</string>
@@ -237,7 +248,7 @@
 	<!-- Button in the main menu -->
 	<string name="donate">Падтрымаць грашыма</string>
 	<!-- Button in the main Help dialog -->
-	<string name="how_to_support_us">Як нас падтрымаць?</string>
+	<string name="how_to_support_us">Падтрымаць праект</string>
 	<!-- Button in the main Help dialog -->
 	<string name="copyright">Капірайт</string>
 	<!-- Text in menu + Button in the main Help dialog -->

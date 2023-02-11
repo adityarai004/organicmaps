@@ -35,6 +35,17 @@
 	<string name="country_status_download_failed">Errore bat deskargatzean</string>
 	<!-- Button text for the button under the country_status_download_failed message -->
 	<string name="try_again">Saiatu berriro</string>
+	<string name="about_menu_title">Organic Maps buruz</string>
+	<!-- Text in About screen -->
+	<string name="about_proposition_1">• Ez iragarkirik, ez jarraipenik</string>
+	<!-- Text in About screen -->
+	<string name="about_proposition_2">• Ez du bateria agortzen</string>
+	<!-- Text in About screen -->
+	<string name="about_proposition_3">• Azkarra eta minimalista</string>
+	<!-- Text in About screen -->
+	<string name="about_developed_by_enthusiasts">Kode irekiko komunitateko zaleek sortua.</string>
+	<!-- Text in About screen -->
+	<string name="about_report_to_osm">Konpondu mapen datuen arazoak OpenStreetMap.org webgunean.</string>
 	<string name="connection_settings">Konexio ezarpenak</string>
 	<string name="close">Itxi</string>
 	<string name="unsupported_phone">Aplikazioak hardware-azeleratutako OpenGL behar du. Zoritxarrez, zure gailua ez da onartzen.</string>
@@ -222,7 +233,7 @@
 	<!-- Button in the main menu -->
 	<string name="donate">Dohaintza eman</string>
 	<!-- Button in the main Help dialog -->
-	<string name="how_to_support_us">Nola lagundu diguzu?</string>
+	<string name="how_to_support_us">Proiektuari laguntza ematea</string>
 	<!-- Button in the main Help dialog -->
 	<string name="copyright">Copyright</string>
 	<!-- Text in menu + Button in the main Help dialog -->

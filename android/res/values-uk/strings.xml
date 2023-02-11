@@ -38,6 +38,17 @@
 	<string name="country_status_download_failed">Помилка завантаження</string>
 	<!-- Button text for the button under the country_status_download_failed message -->
 	<string name="try_again">Спробуйте ще раз</string>
+	<string name="about_menu_title">Про Organic Maps</string>
+	<!-- Text in About screen -->
+	<string name="about_proposition_1">• Без реклами, без трекінгу, без стеження</string>
+	<!-- Text in About screen -->
+	<string name="about_proposition_2">• Не розряджає акумулятор</string>
+	<!-- Text in About screen -->
+	<string name="about_proposition_3">• Швидкий і мінімалістичний</string>
+	<!-- Text in About screen -->
+	<string name="about_developed_by_enthusiasts">Створено ентузіастами спільноти відкритих програм.</string>
+	<!-- Text in About screen -->
+	<string name="about_report_to_osm">Виправте проблеми з даними карти на OpenStreetMap.org.</string>
 	<string name="connection_settings">Налаштування підключення</string>
 	<string name="close">Закрити</string>
 	<string name="unsupported_phone">Для роботи програми необхідний апаратно прискорений OpenGL. На жаль, ваш пристрій не підтримується.</string>
@@ -234,7 +245,7 @@
 	<!-- Button in the main menu -->
 	<string name="donate">Підтримати грошима</string>
 	<!-- Button in the main Help dialog -->
-	<string name="how_to_support_us">Як нас підтримати?</string>
+	<string name="how_to_support_us">Підтримайте проект</string>
 	<!-- Button in the main Help dialog -->
 	<string name="copyright">Копірайт</string>
 	<!-- Text in menu + Button in the main Help dialog -->

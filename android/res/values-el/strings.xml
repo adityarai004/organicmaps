@@ -36,6 +36,17 @@
 	<string name="country_status_download_failed">Η λήψη απέτυχε</string>
 	<!-- Button text for the button under the country_status_download_failed message -->
 	<string name="try_again">Δοκιμάστε ξανά</string>
+	<string name="about_menu_title">Σχετικά με το Organic Maps</string>
+	<!-- Text in About screen -->
+	<string name="about_proposition_1">• Χωρίς διαφημίσεις, χωρίς παρακολούθηση</string>
+	<!-- Text in About screen -->
+	<string name="about_proposition_2">• Δεν αδειάζει την μπαταρία</string>
+	<!-- Text in About screen -->
+	<string name="about_proposition_3">• Γρήγορο και μινιμαλιστικό</string>
+	<!-- Text in About screen -->
+	<string name="about_developed_by_enthusiasts">Δημιουργήθηκε από λάτρεις της κοινότητας ανοιχτού κώδικα.</string>
+	<!-- Text in About screen -->
+	<string name="about_report_to_osm">Διορθώστε προβλήματα δεδομένων χάρτη στο OpenStreetMap.org.</string>
 	<string name="connection_settings">Ρυθμίσεις σύνδεσης</string>
 	<string name="close">Κλείσιμο</string>
 	<string name="unsupported_phone">Η εφαρμογή απαιτεί OpenGL με επιτάχυνση υλικού. Δυστυχώς, η συσκευή σας δεν το υποστηρίζει.</string>
@@ -220,7 +231,7 @@
 	<!-- Button in the main menu -->
 	<string name="donate">Προσφέρω</string>
 	<!-- Button in the main Help dialog -->
-	<string name="how_to_support_us">Πώς να μας υποστηρίξετε;</string>
+	<string name="how_to_support_us">Υποστηρίξτε το έργο</string>
 	<!-- Button in the main Help dialog -->
 	<string name="copyright">Πνευματικά δικαιώματα</string>
 	<!-- Text in menu + Button in the main Help dialog -->

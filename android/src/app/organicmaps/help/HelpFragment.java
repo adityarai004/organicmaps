@@ -5,6 +5,7 @@ import android.text.TextUtils;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Button;
 import android.widget.TextView;
 
 import androidx.annotation.IdRes;
@@ -38,6 +39,9 @@ public class HelpFragment extends BaseMwmFragment implements View.OnClickListene
   public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState)
   {
     mDonateUrl = Config.getDonateUrl();
+    if (TextUtils.isEmpty(mDonateUrl) && !BuildConfig.FLAVOR.equals("google") && !BuildConfig.FLAVOR.equals("huawei"))
+      mDonateUrl = getResources().getString(R.string.translated_om_site_url) + "donate/";
+
     View root = inflater.inflate(R.layout.about, container, false);
 
     ((TextView) root.findViewById(R.id.version))
@@ -58,34 +62,25 @@ public class HelpFragment extends BaseMwmFragment implements View.OnClickListene
     setupItem(R.id.mastodon, false, root);
     setupItem(R.id.openstreetmap, true, root);
     setupItem(R.id.faq, true, root);
-    setupItem(R.id.report, true, root);
-    if (TextUtils.isEmpty(mDonateUrl))
-    {
-      final TextView donateView = root.findViewById(R.id.donate);
-      donateView.setVisibility(View.GONE);
-      if (BuildConfig.FLAVOR.equals("google"))
-      {
-        final TextView supportUsView = root.findViewById(R.id.support_us);
-        supportUsView.setVisibility(View.GONE);
-      }
-      else
-        setupItem(R.id.support_us, true, root);
-    }
+    setupItem(R.id.report, false, root);
+
+    final TextView supportUsView = root.findViewById(R.id.support_us);
+    if (BuildConfig.FLAVOR.equals("google") && !TextUtils.isEmpty(mDonateUrl))
+      supportUsView.setVisibility(View.GONE);
     else
-    {
-      if (Config.isNY())
-      {
-        final TextView textView = setupItem(R.id.donate, false, root);
-        textView.setCompoundDrawablesRelativeWithIntrinsicBounds(R.drawable.ic_christmas_tree, 0, R.drawable.ic_christmas_tree, 0);
-      }
-      else
-        setupItem(R.id.donate, true, root);
       setupItem(R.id.support_us, true, root);
-    }
+
+    final TextView donateView = root.findViewById(R.id.donate);
+    if (TextUtils.isEmpty(mDonateUrl))
+      donateView.setVisibility(View.GONE);
+    else
+      donateView.setOnClickListener(this);
+
     if (BuildConfig.REVIEW_URL.isEmpty())
       root.findViewById(R.id.rate).setVisibility(View.GONE);
     else
       setupItem(R.id.rate, true, root);
+
     setupItem(R.id.copyright, false, root);
     View termOfUseView = root.findViewById(R.id.term_of_use_link);
     View privacyPolicyView = root.findViewById(R.id.privacy_policy);

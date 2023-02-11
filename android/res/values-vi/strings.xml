@@ -35,6 +35,17 @@
 	<string name="country_status_download_failed">Tải xuống đã thất bại</string>
 	<!-- Button text for the button under the country_status_download_failed message -->
 	<string name="try_again">Thử lại</string>
+	<string name="about_menu_title">Giới thiệu về Organic Maps</string>
+	<!-- Text in About screen -->
+	<string name="about_proposition_1">• Không quảng cáo, không theo dõi</string>
+	<!-- Text in About screen -->
+	<string name="about_proposition_2">• Không làm hao pin</string>
+	<!-- Text in About screen -->
+	<string name="about_proposition_3">• Nhanh chóng và tối giản</string>
+	<!-- Text in About screen -->
+	<string name="about_developed_by_enthusiasts">Được tạo bởi những người đam mê từ cộng đồng mã nguồn mở.</string>
+	<!-- Text in About screen -->
+	<string name="about_report_to_osm">Khắc phục sự cố dữ liệu bản đồ tại OpenStreetMap.org.</string>
 	<string name="connection_settings">Thiết lập Kết nối</string>
 	<string name="close">Đóng</string>
 	<string name="unsupported_phone">Cần có OpenGL được tăng tốc phần cứng. Thật không may, thiết bị của bạn không được hỗ trợ.</string>
@@ -219,7 +230,7 @@
 	<!-- Button in the main menu -->
 	<string name="donate">Quyên tặng</string>
 	<!-- Button in the main Help dialog -->
-	<string name="how_to_support_us">Làm thế nào để hỗ trợ chúng tôi?</string>
+	<string name="how_to_support_us">Hỗ trợ dự án</string>
 	<!-- Button in the main Help dialog -->
 	<string name="copyright">Bản quyền</string>
 	<!-- Text in menu + Button in the main Help dialog -->

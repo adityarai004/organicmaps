@@ -38,6 +38,17 @@
 	<string name="country_status_download_failed">Изтеглянето се провали</string>
 	<!-- Button text for the button under the country_status_download_failed message -->
 	<string name="try_again">Опитайте отново</string>
+	<string name="about_menu_title">Относно приложението</string>
+	<!-- Text in About screen -->
+	<string name="about_proposition_1">• Без реклами, без проследяване</string>
+	<!-- Text in About screen -->
+	<string name="about_proposition_2">• Не изтощава батерията</string>
+	<!-- Text in About screen -->
+	<string name="about_proposition_3">• Бързо и минималистично</string>
+	<!-- Text in About screen -->
+	<string name="about_developed_by_enthusiasts">Създаден от ентусиасти от общността с отворен код.</string>
+	<!-- Text in About screen -->
+	<string name="about_report_to_osm">Коригирайте проблеми с картографските данни на OpenStreetMap.org.</string>
 	<string name="connection_settings">Настройки за свързване</string>
 	<string name="close">Затваряне</string>
 	<string name="unsupported_phone">Приложението изисква хардуерно ускорение на OpenGL. За съжаление вашето устройство не се поддържа.</string>
@@ -226,7 +237,7 @@
 	<!-- Button in the main menu -->
 	<string name="donate">Дарете</string>
 	<!-- Button in the main Help dialog -->
-	<string name="how_to_support_us">Как да ни подкрепите?</string>
+	<string name="how_to_support_us">Подкрепете проекта</string>
 	<!-- Button in the main Help dialog -->
 	<string name="copyright">Авторски права</string>
 	<!-- Text in menu + Button in the main Help dialog -->

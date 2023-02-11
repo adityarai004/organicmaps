@@ -37,6 +37,17 @@
 	<string name="country_status_download_failed">Laster ned mislyktes</string>
 	<!-- Button text for the button under the country_status_download_failed message -->
 	<string name="try_again">Prøv på nytt</string>
+	<string name="about_menu_title">Om Organic Maps</string>
+	<!-- Text in About screen -->
+	<string name="about_proposition_1">• Ingen annonser, ingen sporing</string>
+	<!-- Text in About screen -->
+	<string name="about_proposition_2">• Tapper ikke batteriet</string>
+	<!-- Text in About screen -->
+	<string name="about_proposition_3">• Rask og minimalistisk</string>
+	<!-- Text in About screen -->
+	<string name="about_developed_by_enthusiasts">Laget av entusiaster fra åpen kildekode-fellesskapet.</string>
+	<!-- Text in About screen -->
+	<string name="about_report_to_osm">Løs problemer med kartdata på OpenStreetMap.org.</string>
 	<string name="connection_settings">Tilkoblingsinnstillinger</string>
 	<string name="close">Lukk</string>
 	<string name="unsupported_phone">En maskinvareakselerert OpenGL kreves. Dessverre støttes ikke enheten din.</string>
@@ -221,7 +232,7 @@
 	<!-- Button in the main menu -->
 	<string name="donate">Donere</string>
 	<!-- Button in the main Help dialog -->
-	<string name="how_to_support_us">Hvordan støtte oss?</string>
+	<string name="how_to_support_us">Støtt prosjektet</string>
 	<!-- Button in the main Help dialog -->
 	<string name="copyright">Opphavsrett</string>
 	<!-- Text in menu + Button in the main Help dialog -->

@@ -35,6 +35,17 @@
 	<string name="country_status_download_failed">Sťahovanie zlyhalo</string>
 	<!-- Button text for the button under the country_status_download_failed message -->
 	<string name="try_again">Skúsiť znova</string>
+	<string name="about_menu_title">O aplikácii Organic Maps</string>
+	<!-- Text in About screen -->
+	<string name="about_proposition_1">• Žiadne reklamy, žiadne sledovanie</string>
+	<!-- Text in About screen -->
+	<string name="about_proposition_2">• Nevybíja batériu</string>
+	<!-- Text in About screen -->
+	<string name="about_proposition_3">• Rýchle a minimalistické</string>
+	<!-- Text in About screen -->
+	<string name="about_developed_by_enthusiasts">Vytvorené nadšencami z open-source komunity.</string>
+	<!-- Text in About screen -->
+	<string name="about_report_to_osm">Opravte problémy s údajmi máp na OpenStreetMap.org.</string>
 	<string name="connection_settings">Nastavenie pripojenia</string>
 	<string name="close">Zavrieť</string>
 	<string name="unsupported_phone">Je vyžadovaná hardwarová akcelerácia OpenGL. Bohužial, vaše zariadenie nie je podporované.</string>
@@ -219,7 +230,7 @@
 	<!-- Button in the main menu -->
 	<string name="donate">Darovať</string>
 	<!-- Button in the main Help dialog -->
-	<string name="how_to_support_us">Ako nás podporiť?</string>
+	<string name="how_to_support_us">Podporte projekt</string>
 	<!-- Button in the main Help dialog -->
 	<string name="copyright">Autorské práva</string>
 	<!-- Text in menu + Button in the main Help dialog -->
