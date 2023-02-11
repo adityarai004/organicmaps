@@ -48,6 +48,8 @@ public class MenuAdapter extends RecyclerView.Adapter<MenuAdapter.ViewHolder>
   public void onBindViewHolder(ViewHolder viewHolder, final int position)
   {
     final MenuBottomSheetItem item = dataSet.get(position);
+    final ImageView iv = viewHolder.getIconImageView();
+    iv.setImageResource(item.iconRes);
     viewHolder.getContainer().setOnClickListener((v) -> onMenuItemClick(item));
     viewHolder.getTitleTextView().setText(item.titleRes);
     TextView badge = viewHolder.getBadgeTextView();
