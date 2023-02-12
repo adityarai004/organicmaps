@@ -39,6 +39,8 @@
 	<string name="try_again">ลองอีกครั้ง</string>
 	<string name="about_menu_title">เกี่ยวกับ Organic Maps</string>
 	<!-- Text in About screen -->
+	<string name="about_headline">ฟรีสำหรับทุกคน สร้างขึ้นด้วยความรัก</string>
+	<!-- Text in About screen -->
 	<string name="about_proposition_1">• ไม่มีโฆษณา ไม่มีการติดตาม ไม่มีการรวบรวมข้อมูล</string>
 	<!-- Text in About screen -->
 	<string name="about_proposition_2">• ไม่ทำให้แบตเตอรี่หมด</string>

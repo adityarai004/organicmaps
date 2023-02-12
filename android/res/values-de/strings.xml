@@ -37,6 +37,8 @@
 	<string name="try_again">Erneut versuchen</string>
 	<string name="about_menu_title">Über Organic Maps</string>
 	<!-- Text in About screen -->
+	<string name="about_headline">Kostenlos für alle, mit Liebe gemacht.</string>
+	<!-- Text in About screen -->
 	<string name="about_proposition_1">• Keine Werbung, kein Tracking</string>
 	<!-- Text in About screen -->
 	<string name="about_proposition_2">• Entlädt die Batterie nicht</string>
@@ -245,7 +247,7 @@
 	<!-- Button in the main menu -->
 	<string name="donate">Spenden</string>
 	<!-- Button in the main Help dialog -->
-	<string name="how_to_support_us">Unterstützen Sie das Projekt</string>
+	<string name="how_to_support_us">Unterstütze das Projekt</string>
 	<!-- Button in the main Help dialog -->
 	<string name="copyright">Copyright</string>
 	<!-- Text in menu + Button in the main Help dialog -->

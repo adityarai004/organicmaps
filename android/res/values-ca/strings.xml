@@ -37,6 +37,8 @@
 	<string name="try_again">Torna-ho a intentar</string>
 	<string name="about_menu_title">Quant a l\'Organic Maps</string>
 	<!-- Text in About screen -->
+	<string name="about_headline">Gratuït per a tothom, fet amb amor.</string>
+	<!-- Text in About screen -->
 	<string name="about_proposition_1">• Sense anuncis, sense rastrejadors</string>
 	<!-- Text in About screen -->
 	<string name="about_proposition_2">• No esgota la bateria</string>

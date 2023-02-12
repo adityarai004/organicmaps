@@ -37,6 +37,8 @@
 	<string name="try_again">Saiatu berriro</string>
 	<string name="about_menu_title">Organic Maps buruz</string>
 	<!-- Text in About screen -->
+	<string name="about_headline">Denontzat doan, maitasunez egina.</string>
+	<!-- Text in About screen -->
 	<string name="about_proposition_1">• Ez iragarkirik, ez jarraipenik</string>
 	<!-- Text in About screen -->
 	<string name="about_proposition_2">• Ez du bateria agortzen</string>

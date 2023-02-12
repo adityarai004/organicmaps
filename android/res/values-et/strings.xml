@@ -37,6 +37,8 @@
 	<string name="try_again">Proovi uuesti</string>
 	<string name="about_menu_title">Organic Maps kohta</string>
 	<!-- Text in About screen -->
+	<string name="about_headline">Tasuta kõigile, tehtud armastusega.</string>
+	<!-- Text in About screen -->
 	<string name="about_proposition_1">• Pole reklaame, pole jälgimist</string>
 	<!-- Text in About screen -->
 	<string name="about_proposition_2">• Ei tühjenda akut</string>

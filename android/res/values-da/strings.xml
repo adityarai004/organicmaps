@@ -37,6 +37,8 @@
 	<string name="try_again">Prøv igen</string>
 	<string name="about_menu_title">Om Organic Maps</string>
 	<!-- Text in About screen -->
+	<string name="about_headline">Gratis for alle, lavet med kærlighed.</string>
+	<!-- Text in About screen -->
 	<string name="about_proposition_1">• Ingen annoncer, ingen sporing</string>
 	<!-- Text in About screen -->
 	<string name="about_proposition_2">• Dræner ikke batteriet</string>

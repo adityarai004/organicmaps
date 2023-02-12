@@ -40,6 +40,8 @@
 	<string name="try_again">محاولة مرة أخرى</string>
 	<string name="about_menu_title">حول Organic Maps</string>
 	<!-- Text in About screen -->
+	<string name="about_headline">.ﺐﺤﻟﺍ ﻦﻣ ﻉﻮﻨﺼﻣ ، ﻊﻴﻤﺠﻠﻟ ﻲﻧﺎﺠﻣ</string>
+	<!-- Text in About screen -->
 	<string name="about_proposition_1">ﺕﺎﻧﺎﻴﺒﻟﺍ ﻊﻤﺟ ﻻ ، ﻊﺒﺘﺗ ﻻ ، ﺕﺎﻧﻼﻋﺇ ﻻ •</string>
 	<!-- Text in About screen -->
 	<string name="about_proposition_2">ﺔﻳﺭﺎﻄﺒﻟﺍ ﻑﺰﻨﺘﺴﺗ ﻻ •</string>

@@ -40,6 +40,8 @@
 	<string name="try_again">Попробуйте еще раз</string>
 	<string name="about_menu_title">Про Organic Maps</string>
 	<!-- Text in About screen -->
+	<string name="about_headline">Бесплатно для всех, сделано с любовью.</string>
+	<!-- Text in About screen -->
 	<string name="about_proposition_1">• Без рекламы, без трекинга, без слежки</string>
 	<!-- Text in About screen -->
 	<string name="about_proposition_2">• Не разряжает батарею</string>

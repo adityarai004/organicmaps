@@ -40,6 +40,8 @@
 	<string name="try_again">Опитайте отново</string>
 	<string name="about_menu_title">Относно приложението</string>
 	<!-- Text in About screen -->
+	<string name="about_headline">Безплатно за всички, направено с любов.</string>
+	<!-- Text in About screen -->
 	<string name="about_proposition_1">• Без реклами, без проследяване</string>
 	<!-- Text in About screen -->
 	<string name="about_proposition_2">• Не изтощава батерията</string>

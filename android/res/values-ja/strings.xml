@@ -37,6 +37,8 @@
 	<string name="try_again">再実行</string>
 	<string name="about_menu_title">Organic Mapsについて</string>
 	<!-- Text in About screen -->
+	<string name="about_headline">誰でも無料で、愛を込めて作られています。</string>
+	<!-- Text in About screen -->
 	<string name="about_proposition_1">• 広告なし、追跡なし、監視なし</string>
 	<!-- Text in About screen -->
 	<string name="about_proposition_2">• バッテリーを消耗しない</string>

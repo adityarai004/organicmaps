@@ -37,6 +37,8 @@
 	<string name="try_again">Zkusit znovu</string>
 	<string name="about_menu_title">O aplikaci Organic Maps</string>
 	<!-- Text in About screen -->
+	<string name="about_headline">Zdarma pro každého, vyrobené s láskou.</string>
+	<!-- Text in About screen -->
 	<string name="about_proposition_1">• Žádné reklamy, žádné sledování</string>
 	<!-- Text in About screen -->
 	<string name="about_proposition_2">• Nevybíjí baterii</string>

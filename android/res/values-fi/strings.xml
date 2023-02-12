@@ -39,6 +39,8 @@
 	<string name="try_again">Yritä uudelleen</string>
 	<string name="about_menu_title">Tietoa Organic Maps:stä</string>
 	<!-- Text in About screen -->
+	<string name="about_headline">Ilmainen kaikille, tehty rakkaudella.</string>
+	<!-- Text in About screen -->
 	<string name="about_proposition_1">• Ei mainoksia, ei seurantaa</string>
 	<!-- Text in About screen -->
 	<string name="about_proposition_2">• Ei tyhjennä akkua</string>

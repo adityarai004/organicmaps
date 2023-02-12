@@ -5,6 +5,8 @@
 <resources>
 	<!-- SECTION: Strings -->
 	<!-- Text in About screen -->
+	<string name="about_headline">Bure kwa kila mtu, iliyoundwa kwa upendo.</string>
+	<!-- Text in About screen -->
 	<string name="about_proposition_1">• Hakuna matangazo, hakuna ufuatiliaji</string>
 	<!-- Text in About screen -->
 	<string name="about_proposition_2">• Haimalizi betri</string>

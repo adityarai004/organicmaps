@@ -37,6 +37,8 @@
 	<string name="try_again">Försök igen</string>
 	<string name="about_menu_title">Om Organic Maps</string>
 	<!-- Text in About screen -->
+	<string name="about_headline">Gratis för alla, gjord med kärlek.</string>
+	<!-- Text in About screen -->
 	<string name="about_proposition_1">• Inga annonser, ingen spårning</string>
 	<!-- Text in About screen -->
 	<string name="about_proposition_2">• Laddar inte ur batteriet</string>

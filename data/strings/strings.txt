@@ -889,7 +889,44 @@
   [about_headline]
     tags = android
     comment = Text in About screen
-    en = Free for everyone, made with love
+    en = Free for everyone, made with love.
+    ar = .ﺐﺤﻟﺍ ﻦﻣ ﻉﻮﻨﺼﻣ ، ﻊﻴﻤﺠﻠﻟ ﻲﻧﺎﺠﻣ
+    be = Бясплатна для ўсіх, зроблена з любоўю.
+    bg = Безплатно за всички, направено с любов.
+    ca = Gratuït per a tothom, fet amb amor.
+    cs = Zdarma pro každého, vyrobené s láskou.
+    da = Gratis for alle, lavet med kærlighed.
+    de = Kostenlos für alle, mit Liebe gemacht.
+    el = Δωρεάν για όλους, φτιαγμένο με αγάπη.
+    es = Gratis para todos, hecho con amor.
+    et = Tasuta kõigile, tehtud armastusega.
+    eu = Denontzat doan, maitasunez egina.
+    fa = .ﻖﺸﻋ ﺎﺑ ﻩﺪﺷ ﻪﺘﺧﺎﺳ ،ﻪﻤﻫ ﯼﺍﺮﺑ ﻥﺎﮕﯾﺍﺭ
+    fi = Ilmainen kaikille, tehty rakkaudella.
+    fr = Gratuit pour tout le monde, fait avec amour.
+    he = .הבהאב יושע ,םלוכל םניח
+    hu = Mindenki számára ingyenes, szeretettel készült.
+    id = Gratis untuk semua orang, dibuat dengan cinta.
+    it = Gratuito per tutti, fatto con amore.
+    ja = 誰でも無料で、愛を込めて作られています。
+    ko = 사랑으로 만든 모든 사람에게 무료입니다.
+    mr = प्रत्येकासाठी विनामूल्य, प्रेमाने बनवलेले.
+    nb = Gratis for alle, laget med kjærlighet.
+    nl = Gratis voor iedereen, met liefde gemaakt.
+    pl = Za darmo dla wszystkich, wykonane z miłością.
+    pt = Gratuito para todos, feito com amor.
+    pt-BR = Gratuito para todos, feito com amor.
+    ro = Gratuit pentru toată lumea, făcut cu dragoste.
+    ru = Бесплатно для всех, сделано с любовью.
+    sk = Zadarmo pre každého, vyrobené s láskou.
+    sv = Gratis för alla, gjord med kärlek.
+    sw = Bure kwa kila mtu, iliyoundwa kwa upendo.
+    th = ฟรีสำหรับทุกคน สร้างขึ้นด้วยความรัก
+    tr = Sevgiyle yapılmış, herkes için ücretsiz.
+    uk = Безкоштовно для всіх, зроблено з любов'ю.
+    vi = Miễn phí cho tất cả mọi người, được thực hiện với tình yêu.
+    zh-Hans = 对所有人免费，用爱制作。
+    zh-Hant = 對所有人免費，用愛製作。
 
   [about_proposition_1]
     tags = android
@@ -5740,7 +5777,7 @@
     ca = Donar suport al projecte
     cs = Podpořte projekt
     da = Støt projektet
-    de = Unterstützen Sie das Projekt
+    de = Unterstütze das Projekt
     el = Υποστηρίξτε το έργο
     es = Apoya el proyecto
     et = Toetage projekti
@@ -13284,8 +13321,8 @@
     tr = Harita verileri, %@ itibarıyla OpenStreetMap'ten alınmıştır. Dünyadaki tüm kullanıcılar için yer ekleyebileceğiniz veya düzenleyebileceğiniz haritalar için Wikipedia gibidir.
     uk = Дані карти взято з OpenStreetMap станом на %@. Це як Wikipedia для карт, де ви можете додавати або редагувати місця для всіх користувачів у всьому світі.
     vi = Dữ liệu bản đồ là từ OpenStreetMap kể từ ngày %@. Nó giống như Wikipedia dành cho bản đồ nơi bạn có thể thêm hoặc chỉnh sửa địa điểm cho tất cả người dùng trên toàn thế giới.
-    zh-Hans = 地图数据来自截至 %@ 的 OpenStreetMap。它就像地图的维基百科，您可以在其中为全世界所有用户添加或编辑地点。
-    zh-Hant = 地圖數據來自截至 %@ 的 OpenStreetMap。它就像地圖的維基百科，您可以在其中為全世界所有用戶添加或編輯地點。
+    zh-Hans = 地图数据来自截至 %@ 的 OpenStreetMap。它就像地图的维基百科，您可以在其中添加或编辑可供全世界所有用户使用的地点。
+    zh-Hant = 地圖數據來自截至 %@ 的 OpenStreetMap。它就像地圖的維基百科，您可以在其中添加或編輯可供全世界所有用戶使用的地點。
 
   [login_to_make_edits_visible]
     tags = android,ios

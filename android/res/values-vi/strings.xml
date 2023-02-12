@@ -37,6 +37,8 @@
 	<string name="try_again">Thử lại</string>
 	<string name="about_menu_title">Giới thiệu về Organic Maps</string>
 	<!-- Text in About screen -->
+	<string name="about_headline">Miễn phí cho tất cả mọi người, được thực hiện với tình yêu.</string>
+	<!-- Text in About screen -->
 	<string name="about_proposition_1">• Không quảng cáo, không theo dõi</string>
 	<!-- Text in About screen -->
 	<string name="about_proposition_2">• Không làm hao pin</string>

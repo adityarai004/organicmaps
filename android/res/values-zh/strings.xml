@@ -37,6 +37,8 @@
 	<string name="try_again">重试</string>
 	<string name="about_menu_title">关于 Organic Maps</string>
 	<!-- Text in About screen -->
+	<string name="about_headline">对所有人免费，用爱制作。</string>
+	<!-- Text in About screen -->
 	<string name="about_proposition_1">• 无广告、无跟踪、无数据收集</string>
 	<!-- Text in About screen -->
 	<string name="about_proposition_2">• 不会耗尽电池</string>
@@ -441,7 +443,7 @@
 	<string name="placepage_add_business_button">添加组织</string>
 	<string name="message_invalid_feature_position">对象无法设置在这里</string>
 	<!-- Text in About and OSM Login screens. %@ is replaced by a local, human readable date. -->
-	<string name="osm_presentation">地图数据来自截至 %s 的 OpenStreetMap。它就像地图的维基百科，您可以在其中为全世界所有用户添加或编辑地点。</string>
+	<string name="osm_presentation">地图数据来自截至 %s 的 OpenStreetMap。它就像地图的维基百科，您可以在其中添加或编辑可供全世界所有用户使用的地点。</string>
 	<string name="login_to_make_edits_visible">登录，让其他用户能看到您所作出的修改。</string>
 	<!-- Downloaded 10 **of** 20 <- it is that "of" -->
 	<string name="downloader_of">%1$d个/共%2$d个</string>

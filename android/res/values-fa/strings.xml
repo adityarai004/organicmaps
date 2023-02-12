@@ -40,6 +40,8 @@
 	<string name="try_again">تلاش مجدد</string>
 	<string name="about_menu_title">Organic Maps درباره‌ی</string>
 	<!-- Text in About screen -->
+	<string name="about_headline">.ﻖﺸﻋ ﺎﺑ ﻩﺪﺷ ﻪﺘﺧﺎﺳ ،ﻪﻤﻫ ﯼﺍﺮﺑ ﻥﺎﮕﯾﺍﺭ</string>
+	<!-- Text in About screen -->
 	<string name="about_proposition_1">ﺕﺭﺎﻈﻧ ﻥﻭﺪﺑ ،ﯽﺑﺎﯾﺩﺭ ﻥﻭﺪﺑ ،ﺕﺎﻐﯿﻠﺒﺗ ﻥﻭﺪﺑ •</string>
 	<!-- Text in About screen -->
 	<string name="about_proposition_2">• ﺪﻨﮐ ﯽﻤﻧ ﯽﻟﺎﺧ ﺍﺭ ﯼﺮﺗﺎﺑ</string>

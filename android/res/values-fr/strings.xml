@@ -39,6 +39,8 @@
 	<string name="try_again">Réessayer</string>
 	<string name="about_menu_title">À propos de Organic Maps</string>
 	<!-- Text in About screen -->
+	<string name="about_headline">Gratuit pour tout le monde, fait avec amour.</string>
+	<!-- Text in About screen -->
 	<string name="about_proposition_1">• Pas de publicité, pas de pistage</string>
 	<!-- Text in About screen -->
 	<string name="about_proposition_2">• Ne vide pas la batterie</string>

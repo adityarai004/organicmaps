@@ -37,6 +37,8 @@
 	<string name="try_again">पुन्हा प्रयत्न करा</string>
 	<string name="about_menu_title">Organic Maps बद्दल</string>
 	<!-- Text in About screen -->
+	<string name="about_headline">प्रत्येकासाठी विनामूल्य, प्रेमाने बनवलेले.</string>
+	<!-- Text in About screen -->
 	<string name="about_proposition_1">• जाहिराती नाहीत, ट्रॅककिंग नाही, डेटा संग्रह नाही</string>
 	<!-- Text in About screen -->
 	<string name="about_proposition_2">• बॅटरी काढून टाकत नाही</string>

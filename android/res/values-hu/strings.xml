@@ -37,6 +37,8 @@
 	<string name="try_again">Újrapróbálkozás</string>
 	<string name="about_menu_title">A Organic Maps programról</string>
 	<!-- Text in About screen -->
+	<string name="about_headline">Mindenki számára ingyenes, szeretettel készült.</string>
+	<!-- Text in About screen -->
 	<string name="about_proposition_1">• Nincs nyomkövetés, nincsenek hirdetések</string>
 	<!-- Text in About screen -->
 	<string name="about_proposition_2">• Nem meríti le az akkumulátort</string>
