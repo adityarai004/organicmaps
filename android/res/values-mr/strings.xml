@@ -174,8 +174,6 @@
 	<string name="copied_to_clipboard">क्लिपबोर्डावर कॉपी केले: %1$s</string>
 	<!-- Used for bookmark editing -->
 	<string name="done">झाले</string>
-	<!-- Data version in «About» screen, %@ is replaced by a local, human readable date. -->
-	<string name="data_version">OpenStreetMap डेटा: %s</string>
 	<!-- Confirmation in downloading countries dialog -->
 	<string name="are_you_sure">खात्रीपूर्वक पुढे जायचे?</string>
 	<!-- Title for tracks category in bookmarks manager -->
@@ -435,6 +433,8 @@
 	<string name="editor_report_problem_other_title">वेगळी समस्या</string>
 	<string name="placepage_add_business_button">व्यवसाय जोडा</string>
 	<string name="message_invalid_feature_position">इथे कोणतीही वस्तू ठेवू शकत नाही</string>
+	<!-- Text in About and OSM Login screens. %@ is replaced by a local, human readable date. -->
+	<string name="osm_presentation">%s पर्यंतचा नकाशा डेटा OpenStreetMap वरून आहे. हे नकाशांसाठी विकिपीडियासारखे आहे जेथे तुम्ही जगभरातील सर्व वापरकर्त्यांसाठी ठिकाणे जोडू किंवा संपादित करू शकता.</string>
 	<string name="login_to_make_edits_visible">इतर वापरकर्त्यांना तुम्ही केलेले बदल दिसण्यासाठी लॉग इन करा</string>
 	<!-- Downloaded 10 **of** 20 <- it is that "of" -->
 	<string name="downloader_of">%2$d पैकी %1$d</string>
@@ -494,8 +494,6 @@
 	<string name="editor_share_to_all_dialog_title">तुम्ही ते सर्व वापरकर्त्यांना पाठवू इच्छिता?</string>
 	<!-- Dialog before publishing the modifications to the public map. -->
 	<string name="editor_share_to_all_dialog_message_1">आपण कोणतीही वैयक्तिक माहिती प्रविष्ट केला नाही याची खात्री करा.</string>
-	<!-- Text under the version number in the Help dialog. TODO: Synchronize other translations with English. -->
-	<string name="about_description">Organic Maps हे एक विनामूल्य, जलद व ऑफलाईन नकाशांचे ऍप आहे जिथे जाहिरातीही नसतात व तुम्ही माहिती देखील गोळा केला जात नाही. हे नकाशे OpenStreetMap ह्या जनयोगदान प्रकल्पावर आधारित असल्याने नकाशातील त्रुट्या सुधारणे, नवीन ठिकाण जोडणे हे आपण स्वतः करू शकता. Organic Maps हा काही उत्साही लोकांनी त्यांच्या ऐत्यावेळात निर्माण केलेला मुक्त स्त्रोत स्वरूपाचा प्रकल्प आहे. तुमचा पाठिंबा व अभिप्राय बहुमोल आहे.</string>
 	<!-- For the first routing -->
 	<string name="accept">स्वीकारा</string>
 	<!-- For the first routing -->

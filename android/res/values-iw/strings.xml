@@ -33,7 +33,7 @@
 	<string name="try_again">נסה שוב</string>
 	<string name="about_menu_title">Organic Maps אודות</string>
 	<!-- Text in About screen -->
-	<string name="about_proposition_1">םינותנ ףוסיא אלל ,בקעמ אלל ,תועדומ אלל •</string>
+	<string name="about_proposition_1">םינותנ ףוסיא אלל, בקעמ אלל, תועדומ אלל •</string>
 	<!-- Text in About screen -->
 	<string name="about_proposition_2">הללוסה תא ןקורמ אל •</string>
 	<!-- Text in About screen -->
@@ -155,8 +155,6 @@
 	<string name="copied_to_clipboard">הועתקו לזכרון זמני %1$s</string>
 	<!-- Used for bookmark editing -->
 	<string name="done">בוצע</string>
-	<!-- Data version in «About» screen, %@ is replaced by a local, human readable date. -->
-	<string name="data_version">OpenStreetMap: %s ינותנ</string>
 	<!-- Confirmation in downloading countries dialog -->
 	<string name="are_you_sure">האם הנך בטוח שרצונך להמשיך?</string>
 	<!-- Title for tracks category in bookmarks manager -->
@@ -228,10 +226,9 @@
 	<string name="twentyfour_seven">יום ולילה</string>
 	<string name="login_osm">OpenStreetMap-ל סנכיה</string>
 	<string name="level">קוֹמָה</string>
-	<string name="osm_presentation">כל נתוני המפה מגיעים מפרויקט OpenStreetMap. זה כמו ויקיפדיה למפות, שבה אתה יכול להוסיף או לערוך מקומות, והם הופכים לזמינים למיליוני משתמשים בכל רחבי העולם.</string>
+	<!-- Text in About and OSM Login screens. %@ is replaced by a local, human readable date. -->
+	<string name="osm_presentation">נתוני המפה הם מ-OpenStreetMap נכון ל-%s. זה כמו ויקיפדיה למפות שבהן אתה יכול להוסיף או לערוך מקומות עבור כל המשתמשים ברחבי העולם.</string>
 	<string name="editor_share_to_all_dialog_message_2">.ןהשלכ תולאש םהל שי םא רשק ךתיא ורציו םייונישה תא וקדבי OpenStreetMap יכרוע</string>
-	<!-- Text under the version number in the Help dialog. TODO: Synchronize other translations with English. -->
-	<string name="about_description">Organic Maps היא אפליקציית מפות לא מקוונות בחינם ובקוד פתוח. ללא פרסומות. אין מעקב. אם אתה רואה שגיאה במפה, אנא תקן אותה ב-OpenStreetMap. הפרויקט נוצר על ידי חובבים בזמננו הפנוי, אז אנו זקוקים למשוב ולתמיכה שלכם.</string>
 	<string name="transliteration_title">תעתיק ללטינית</string>
 	<!-- E.g. "WiFi:Yes" -->
 	<string name="yes_available">כן</string>

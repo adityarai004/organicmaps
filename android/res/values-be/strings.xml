@@ -191,8 +191,6 @@
 	<string name="copied_to_clipboard">Скапіравана ў буфер абмена: %1$s</string>
 	<!-- Used for bookmark editing -->
 	<string name="done">Гатова</string>
-	<!-- Data version in «About» screen, %@ is replaced by a local, human readable date. -->
-	<string name="data_version">Дадзеныя OpenStreetMap: %s</string>
 	<!-- Confirmation in downloading countries dialog -->
 	<string name="are_you_sure">Сапраўды хочаце працягнуць?</string>
 	<!-- Title for tracks category in bookmarks manager -->
@@ -456,7 +454,8 @@
 	<string name="editor_report_problem_other_title">Іншая праблема</string>
 	<string name="placepage_add_business_button">Дадаць установу</string>
 	<string name="message_invalid_feature_position">Аб\'ект не можа знаходзіцца тут</string>
-	<string name="osm_presentation">Усе дадзеныя карты паходзяць з праекта OpenStreetMap. Гэта як Wikipedia для карт, дзе вы можаце дадаваць або рэдагаваць месцы, і яны становяцца даступнымі для мільёнаў карыстальнікаў па ўсім свеце.</string>
+	<!-- Text in About and OSM Login screens. %@ is replaced by a local, human readable date. -->
+	<string name="osm_presentation">Даныя карты ўзяты з OpenStreetMap па стане на %s. Гэта як Wikipedia для карт, дзе вы можаце дадаваць або рэдагаваць месцы для ўсіх карыстальнікаў па ўсім свеце.</string>
 	<string name="login_to_make_edits_visible">Аўтарызуйцеся ў OpenStreetMap.org, каб іншыя карыстальнікі бачылі вашыя змены.</string>
 	<!-- Downloaded 10 **of** 20 <- it is that "of" -->
 	<string name="downloader_of">%1$d з %2$d</string>
@@ -515,8 +514,6 @@
 	<!-- Dialog before publishing the modifications to the public map. -->
 	<string name="editor_share_to_all_dialog_message_1">Упэўніцеся, што вы не ўвялі ніякіх асабістых дадзеных.</string>
 	<string name="editor_share_to_all_dialog_message_2">Рэдактары OpenStreetMap правераць змены і звяжуцца з вамі, калі ў іх узнікнуць пытанні.</string>
-	<!-- Text under the version number in the Help dialog. TODO: Synchronize other translations with English. -->
-	<string name="about_description">Organic Maps — гэта хуткія і бясплатныя мапы без рэкламы, якія працуюць без Інтэрнэту і не шпіёняць за вамі. Усе картаграфічныя дадзеныя бяруцца з OpenStreetMap.org, там вы зможаце самастойна выпраўляць памылкі і дадаваць новыя аб\'екты. Organic Maps — гэта праект з адкрытым зыходным кодам, які ствараецца энтузіястамі ў вольны час. Будзем рады вашай падтрымцы і зваротнай сувязі!</string>
 	<!-- For the first routing -->
 	<string name="accept">Прыняць</string>
 	<!-- For the first routing -->

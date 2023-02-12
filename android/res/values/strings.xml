@@ -195,8 +195,6 @@
 	<string name="copied_to_clipboard">Copied to clipboard: %1$s</string>
 	<!-- Used for bookmark editing -->
 	<string name="done">Done</string>
-	<!-- Data version in «About» screen, %@ is replaced by a local, human readable date. -->
-	<string name="data_version">OpenStreetMap data: %s</string>
 	<!-- Confirmation in downloading countries dialog -->
 	<string name="are_you_sure">Are you sure you want to continue?</string>
 	<!-- Title for tracks category in bookmarks manager -->
@@ -485,7 +483,8 @@
 	<string name="editor_report_problem_other_title">Different problem</string>
 	<string name="placepage_add_business_button">Add business</string>
 	<string name="message_invalid_feature_position">No object can be located here</string>
-	<string name="osm_presentation">Map data is from the OpenStreetMap. It is like Wikipedia for maps where you can add or edit places, and they become available to millions of users.</string>
+	<!-- Text in About and OSM Login screens. %@ is replaced by a local, human readable date. -->
+	<string name="osm_presentation">Map data is from the OpenStreetMap as of %s. It is like Wikipedia for maps where you can add or edit places for all users over the world.</string>
 	<string name="login_to_make_edits_visible">Log in to OpenStreetMap.org so other users can see the changes you have made.</string>
 	<!-- Downloaded 10 **of** 20 <- it is that "of" -->
 	<string name="downloader_of">%1$d of %2$d</string>
@@ -548,8 +547,6 @@
 	<!-- Dialog before publishing the modifications to the public map. -->
 	<string name="editor_share_to_all_dialog_message_1">Make sure you did not enter any personal data.</string>
 	<string name="editor_share_to_all_dialog_message_2">OpenStreetMap editors will check the changes and get in contact with you if they have any questions.</string>
-	<!-- Text under the version number in the Help dialog. TODO: Synchronize other translations with English. -->
-	<string name="about_description">Organic Maps is a fast and free offline maps app without ads and tracking. Maps are based on crowd-sourced OpenStreetMap.org data, so you can fix mapping errors and add features there yourself. Organic Maps is an open-source project created by enthusiasts in their spare time. Your feedback and support are much appreciated!</string>
 	<!-- For the first routing -->
 	<string name="accept">Accept</string>
 	<!-- For the first routing -->

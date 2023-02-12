@@ -175,8 +175,6 @@
 	<string name="copied_to_clipboard">クリップボードにコピーしました: %1$s</string>
 	<!-- Used for bookmark editing -->
 	<string name="done">完了</string>
-	<!-- Data version in «About» screen, %@ is replaced by a local, human readable date. -->
-	<string name="data_version">OpenStreetMapデータ：%s</string>
 	<!-- Confirmation in downloading countries dialog -->
 	<string name="are_you_sure">本当に続けますか?</string>
 	<!-- Title for tracks category in bookmarks manager -->
@@ -430,7 +428,8 @@
 	<string name="editor_report_problem_other_title">異なる問題</string>
 	<string name="placepage_add_business_button">団体を追加</string>
 	<string name="message_invalid_feature_position">ここにはオブジェクトを配置できません</string>
-	<string name="osm_presentation">すべての地図データは、OpenStreetMap プロジェクトから取得されます。場所を追加または編集できる地図のウィキペディアのようなもので、世界中の何百万人ものユーザーが利用できるようになります。</string>
+	<!-- Text in About and OSM Login screens. %@ is replaced by a local, human readable date. -->
+	<string name="osm_presentation">地図データは %s 日時点の OpenStreetMap のものです。 これは、世界中のすべてのユーザーの場所を追加または編集できるマップの Wikipedia のようなものです。</string>
 	<string name="login_to_make_edits_visible">他のユーザーにも変更が表示されるようログインしてください。</string>
 	<!-- Downloaded 10 **of** 20 <- it is that "of" -->
 	<string name="downloader_of">%2$d中%1$d</string>
@@ -486,8 +485,6 @@
 	<!-- Dialog before publishing the modifications to the public map. -->
 	<string name="editor_share_to_all_dialog_message_1">個人情報を入力していないことを確認してください。</string>
 	<string name="editor_share_to_all_dialog_message_2">OpenStreetMap の編集者が変更を確認し、質問があれば連絡します。</string>
-	<!-- Text under the version number in the Help dialog. TODO: Synchronize other translations with English. -->
-	<string name="about_description">Organic Mapsは、無料のオープンソースのオフラインマップアプリケーションです。広告なし。全く追跡しません。地図上にエラーが表示された場合は、OpenStreetMapで修正してください。プロジェクトは私たちの自由な時間に愛好家によって作成されているため、フィードバックとサポートが必要です。</string>
 	<!-- For the first routing -->
 	<string name="accept">了解</string>
 	<!-- For the first routing -->

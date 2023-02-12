@@ -47,8 +47,8 @@ public class HelpFragment extends BaseMwmFragment implements View.OnClickListene
     ((TextView) root.findViewById(R.id.version))
         .setText(BuildConfig.VERSION_NAME);
 
-    ((TextView) root.findViewById(R.id.data_version))
-        .setText(getString(R.string.data_version, DateUtils.getLocalDate(Framework.nativeGetDataVersion())));
+    ((TextView) root.findViewById(R.id.osm_presentation))
+        .setText(getString(R.string.osm_presentation, DateUtils.getLocalDate(Framework.nativeGetDataVersion())));
 
     setupItem(R.id.news, true, root);
     setupItem(R.id.web, true, root);

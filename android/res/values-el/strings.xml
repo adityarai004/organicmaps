@@ -178,8 +178,6 @@
 	<string name="copied_to_clipboard">Αντιγράφηκε στο Πρόχειρο: %1$s</string>
 	<!-- Used for bookmark editing -->
 	<string name="done">Ολοκληρώθηκε</string>
-	<!-- Data version in «About» screen, %@ is replaced by a local, human readable date. -->
-	<string name="data_version">Δεδομένα OpenStreetMap: %s</string>
 	<!-- Confirmation in downloading countries dialog -->
 	<string name="are_you_sure">Θέλετε σίγουρα να συνεχίσετε?</string>
 	<!-- Title for tracks category in bookmarks manager -->
@@ -436,7 +434,8 @@
 	<string name="editor_report_problem_other_title">Διαφορετικό πρόβλημα</string>
 	<string name="placepage_add_business_button">Προσθήκη επιχείρησης</string>
 	<string name="message_invalid_feature_position">Δε μπορεί να εντοπιστεί αντικείμενο εδώ</string>
-	<string name="osm_presentation">Όλα τα δεδομένα χάρτη προέρχονται από το έργο OpenStreetMap. Μοιάζει με τη Wikipedia για χάρτες όπου μπορείτε να προσθέσετε ή να επεξεργαστείτε μέρη και γίνονται διαθέσιμα σε εκατομμύρια χρήστες σε όλο τον κόσμο.</string>
+	<!-- Text in About and OSM Login screens. %@ is replaced by a local, human readable date. -->
+	<string name="osm_presentation">Τα δεδομένα χάρτη προέρχονται από το OpenStreetMap από %s. Είναι σαν τη Wikipedia για χάρτες όπου μπορείτε να προσθέσετε ή να επεξεργαστείτε μέρη για όλους τους χρήστες σε όλο τον κόσμο.</string>
 	<string name="login_to_make_edits_visible">Συνδεθείτε ώστε άλλοι χρήστες να μπορούν να δουν τις αλλαγές που έχετε κάνει</string>
 	<!-- Downloaded 10 **of** 20 <- it is that "of" -->
 	<string name="downloader_of">%1$d από %2$d</string>
@@ -482,8 +481,6 @@
 	<!-- Dialog before publishing the modifications to the public map. -->
 	<string name="editor_share_to_all_dialog_message_1">Βεβαιωθείτε ότι δεν έχετε εισάγει προσωπικά δεδομένα.</string>
 	<string name="editor_share_to_all_dialog_message_2">Οι συντάκτες του OpenStreetMap θα ελέγξουν τις αλλαγές και θα επικοινωνήσουν μαζί σας εάν έχουν απορίες.</string>
-	<!-- Text under the version number in the Help dialog. TODO: Synchronize other translations with English. -->
-	<string name="about_description">Οι Organic Maps είναι μια δωρεάν και ανοιχτού κώδικα εφαρμογή χαρτών εκτός σύνδεσης. Χωρίς διαφημίσεις. Χωρίς εντοπισμό. Εάν δείτε κάποιο σφάλμα στον χάρτη, διορθώστε το στο OpenStreetMap. Το έργο δημιουργείται από λάτρεις στον ελεύθερο χρόνο μας, επομένως χρειαζόμαστε τα σχόλια και την υποστήριξή σας.</string>
 	<!-- For the first routing -->
 	<string name="accept">Συμφωνώ</string>
 	<!-- For the first routing -->
