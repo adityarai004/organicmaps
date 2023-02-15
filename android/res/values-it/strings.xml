@@ -46,8 +46,6 @@
 	<string name="about_proposition_3">• Veloce e minimalista</string>
 	<!-- Text in About screen -->
 	<string name="about_developed_by_enthusiasts">Creato da appassionati della comunità open-source.</string>
-	<!-- Text in About screen -->
-	<string name="about_report_to_osm">Risolvi i problemi relativi ai dati della mappa su OpenStreetMap.org.</string>
 	<string name="connection_settings">Impostazioni di connessione</string>
 	<string name="close">Chiudi</string>
 	<string name="unsupported_phone">È necessaria una accelerazione hardware OpenGL. Purtroppo, il tuo dispositivo non è supportato.</string>

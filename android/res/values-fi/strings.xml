@@ -48,8 +48,6 @@
 	<string name="about_proposition_3">• Nopea ja minimalistinen</string>
 	<!-- Text in About screen -->
 	<string name="about_developed_by_enthusiasts">Avoimen lähdekoodin yhteisön harrastajien luoma.</string>
-	<!-- Text in About screen -->
-	<string name="about_report_to_osm">Korjaa karttatietoongelmia osoitteessa OpenStreetMap.org.</string>
 	<string name="connection_settings">Yhteysasetukset</string>
 	<string name="close">Sulje</string>
 	<string name="unsupported_phone">Laitteistokiihdytetty OpenGL vaaditaan. Valitettavasti laitteesi ei ole tuettu.</string>

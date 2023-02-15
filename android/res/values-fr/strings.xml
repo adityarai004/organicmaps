@@ -48,8 +48,6 @@
 	<string name="about_proposition_3">• Rapide et minimaliste</string>
 	<!-- Text in About screen -->
 	<string name="about_developed_by_enthusiasts">Créé par des passionnés de la communauté open-source</string>
-	<!-- Text in About screen -->
-	<string name="about_report_to_osm">Résoudre les problèmes de données cartographiques sur OpenStreetMap.org.</string>
 	<string name="connection_settings">Paramètres de connexion</string>
 	<string name="close">Fermer</string>
 	<string name="unsupported_phone">L\'accélération OpenGL matérielle est exigée. Malheureusement, votre appareil n\'est pas pris en charge.</string>

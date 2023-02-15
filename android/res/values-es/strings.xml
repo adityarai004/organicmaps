@@ -46,8 +46,6 @@
 	<string name="about_proposition_3">• Rápido y minimalista</string>
 	<!-- Text in About screen -->
 	<string name="about_developed_by_enthusiasts">Creado por entusiastas de la comunidad de código abierto.</string>
-	<!-- Text in About screen -->
-	<string name="about_report_to_osm">Solucionar problemas de datos de mapas en OpenStreetMap.org.</string>
 	<string name="connection_settings">Ajustes de conexión</string>
 	<string name="close">Cerrar</string>
 	<string name="unsupported_phone">La aplicación requiere OpenGL acelerado por hardware. Lamentablemente, su dispositivo no es compatible.</string>

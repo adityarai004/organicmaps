@@ -46,8 +46,6 @@
 	<string name="about_proposition_3">• Hurtig og minimalistisk</string>
 	<!-- Text in About screen -->
 	<string name="about_developed_by_enthusiasts">Skabt af entusiaster fra open source-fællesskabet.</string>
-	<!-- Text in About screen -->
-	<string name="about_report_to_osm">Løs problemer med kortdata på OpenStreetMap.org.</string>
 	<string name="connection_settings">Forbindelsesindstillinger</string>
 	<string name="close">Luk</string>
 	<string name="unsupported_phone">En hardware accelereret OpenGL er påkrævet. Din enhed er desværre ikke understøttet.</string>

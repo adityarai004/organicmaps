@@ -46,8 +46,6 @@
 	<string name="about_proposition_3">• Kiire ja minimalistlik</string>
 	<!-- Text in About screen -->
 	<string name="about_developed_by_enthusiasts">Loodud avatud lähtekoodiga kogukonna entusiastide poolt.</string>
-	<!-- Text in About screen -->
-	<string name="about_report_to_osm">Lahendage kaardiandmetega seotud probleemid saidil OpenStreetMap.org.</string>
 	<string name="connection_settings">Ühenduse seaded</string>
 	<string name="close">Sulge</string>
 	<string name="unsupported_phone">Rakendus vajab riistvaralist OpenGL tuge. Kahjuks Sinu seade ei ole toetatud.</string>

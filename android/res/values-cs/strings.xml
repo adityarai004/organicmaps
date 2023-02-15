@@ -46,8 +46,6 @@
 	<string name="about_proposition_3">• Rychlé a minimalistické</string>
 	<!-- Text in About screen -->
 	<string name="about_developed_by_enthusiasts">Vytvořeno nadšenci z open-source komunity.</string>
-	<!-- Text in About screen -->
-	<string name="about_report_to_osm">Opravte problémy s mapovými daty na OpenStreetMap.org.</string>
 	<string name="connection_settings">Nastavení připojení</string>
 	<string name="close">Zavřít</string>
 	<string name="unsupported_phone">Je vyžadována hardwarová akcelerace OpenGL. Bohužel, vaše zařízení není podporováno.</string>

@@ -46,8 +46,6 @@
 	<string name="about_proposition_3">• Ràpid i minimalista</string>
 	<!-- Text in About screen -->
 	<string name="about_developed_by_enthusiasts">Creat per entusiastes de la comunitat de codi obert.</string>
-	<!-- Text in About screen -->
-	<string name="about_report_to_osm">Solucioneu problemes de dades de mapes a OpenStreetMap.org.</string>
 	<string name="connection_settings">Paràmetres de connexió</string>
 	<string name="close">Tanca</string>
 	<string name="unsupported_phone">L\'aplicació requereix acceleració per maquinari OpenGL. Malauradament, el vostre aparell no ho suporta.</string>

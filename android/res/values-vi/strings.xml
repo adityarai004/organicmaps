@@ -46,8 +46,6 @@
 	<string name="about_proposition_3">• Nhanh chóng và tối giản</string>
 	<!-- Text in About screen -->
 	<string name="about_developed_by_enthusiasts">Được tạo bởi những người đam mê từ cộng đồng mã nguồn mở.</string>
-	<!-- Text in About screen -->
-	<string name="about_report_to_osm">Khắc phục sự cố dữ liệu bản đồ tại OpenStreetMap.org.</string>
 	<string name="connection_settings">Thiết lập Kết nối</string>
 	<string name="close">Đóng</string>
 	<string name="unsupported_phone">Cần có OpenGL được tăng tốc phần cứng. Thật không may, thiết bị của bạn không được hỗ trợ.</string>

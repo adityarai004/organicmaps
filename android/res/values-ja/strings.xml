@@ -46,8 +46,6 @@
 	<string name="about_proposition_3">• 高速でミニマリスト</string>
 	<!-- Text in About screen -->
 	<string name="about_developed_by_enthusiasts">オープンソース コミュニティの愛好家によって作成されました。</string>
-	<!-- Text in About screen -->
-	<string name="about_report_to_osm">OpenStreetMap.org で地図データの問題を修正します。</string>
 	<string name="connection_settings">接続設定</string>
 	<string name="close">閉じる</string>
 	<string name="unsupported_phone">ハードウェアアクセラレーションされたOpenGLが必要です。残念ながらご利用中のデバイスではサポートされていません。</string>

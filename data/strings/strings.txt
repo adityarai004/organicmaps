@@ -904,7 +904,7 @@
     fa = .ﻖﺸﻋ ﺎﺑ ﻩﺪﺷ ﻪﺘﺧﺎﺳ ،ﻪﻤﻫ ﯼﺍﺮﺑ ﻥﺎﮕﯾﺍﺭ
     fi = Ilmainen kaikille, tehty rakkaudella.
     fr = Gratuit pour tout le monde, fait avec amour.
-    he = .הבהאב יושע ,םלוכל םניח
+    he = .הבהאב יושע, םלוכל םניח
     hu = Mindenki számára ingyenes, szeretettel készült.
     id = Gratis untuk semua orang, dibuat dengan cinta.
     it = Gratuito per tutti, fatto con amore.
@@ -956,8 +956,8 @@
     nb = • Ingen annonser, ingen sporing
     nl = • Geen advertenties, geen tracking
     pl = • Brak reklam, brak śledzenia
-    pt = • Sem anúncios, sem rastreamento
-    pt-BR = • Sem anúncios, sem rastreamento
+    pt = • Sem anúncios ou rastreamento
+    pt-BR = • Sem anúncios ou rastreamento
     ro = • Fără reclame, fără urmărire
     ru = • Без рекламы, без трекинга, без слежки
     sk = • Žiadne reklamy, žiadne sledovanie
@@ -998,8 +998,8 @@
     nb = • Tapper ikke batteriet
     nl = • Trekt de batterij niet leeg
     pl = • Nie drenuje baterii
-    pt = • Não descarrega a bateria
-    pt-BR = • Não descarrega a bateria
+    pt = • Baixo consumo de bateria
+    pt-BR = • Baixo consumo de bateria
     ro = • Nu consumă bateria
     ru = • Не разряжает батарею
     sk = • Nevybíja batériu
@@ -1015,7 +1015,7 @@
   [about_proposition_3]
     tags = android
     comment = Text in About screen
-    en = • Fast, minimalistic and not bloated
+    en = • Fast, minimalistic, unbloated
     ar = ﻂﻴﺴﺑﻭ ﻊﻳﺮﺳ •
     be = • Хуткі і мінімалістычны
     bg = • Бързо и минималистично
@@ -1095,48 +1095,6 @@
     vi = Được tạo bởi những người đam mê từ cộng đồng mã nguồn mở.
     zh-Hans = 由开源社区的爱好者创建.
     zh-Hant = 由開源社區的愛好者創建.
-
-  [about_report_to_osm]
-    tags = android
-    comment = Text in About screen
-    en = Please fix all map issues at OpenStreetMap.org.
-    ar = .OpenStreetMap.org ﻊﻗﻮﻣ ﻰﻠﻋ ﻂﺋﺍﺮﺨﻟﺍ ﺕﺎﻧﺎﻴﺑ ﺕﻼﻜﺸﻣ ﺢﻠﺻﺃ
-    be = Вырашыце праблемы з дадзенымі карты на OpenStreetMap.org.
-    bg = Коригирайте проблеми с картографските данни на OpenStreetMap.org.
-    ca = Solucioneu problemes de dades de mapes a OpenStreetMap.org.
-    cs = Opravte problémy s mapovými daty na OpenStreetMap.org.
-    da = Løs problemer med kortdata på OpenStreetMap.org.
-    de = Kartendatenprobleme auf OpenStreetMap.org beheben.
-    el = Διορθώστε προβλήματα δεδομένων χάρτη στο OpenStreetMap.org.
-    es = Solucionar problemas de datos de mapas en OpenStreetMap.org.
-    et = Lahendage kaardiandmetega seotud probleemid saidil OpenStreetMap.org.
-    eu = Konpondu mapen datuen arazoak OpenStreetMap.org webgunean.
-    fa = .ﺪﯿﻨﮐ ﻑﺮﻃﺮﺑ OpenStreetMap.org ﺭﺩ ﺍﺭ ﻪﺸﻘﻧ ﯼﺎﻫ ﻩﺩﺍﺩ ﺕﻼﮑﺸﻣ
-    fi = Korjaa karttatietoongelmia osoitteessa OpenStreetMap.org.
-    fr = Résoudre les problèmes de données cartographiques sur OpenStreetMap.org.
-    he = .OpenStreetMap.org-ב הפמ ינותנב תויעב ןקת
-    hu = Javítsa ki a térképadatokkal kapcsolatos problémákat az OpenStreetMap.org webhelyen.
-    id = Perbaiki masalah data peta di OpenStreetMap.org.
-    it = Risolvi i problemi relativi ai dati della mappa su OpenStreetMap.org.
-    ja = OpenStreetMap.org で地図データの問題を修正します。
-    ko = OpenStreetMap.org에서 지도 데이터 문제를 수정합니다.
-    mr = OpenStreetMap.org वर नकाशा डेटा समस्ययांचे निर.करण करा
-    nb = Løs problemer med kartdata på OpenStreetMap.org.
-    nl = Los problemen met kaartgegevens op OpenStreetMap.org op.
-    pl = Napraw problemy z danymi mapy na OpenStreetMap.org.
-    pt = Corrija problemas de dados de mapas em OpenStreetMap.org.
-    pt-BR = Corrija problemas de dados de mapas em OpenStreetMap.org.
-    ro = Remediați problemele de date ale hărților la OpenStreetMap.org.
-    ru = Исправление проблем с картографическими данными на OpenStreetMap.org.
-    sk = Opravte problémy s údajmi máp na OpenStreetMap.org.
-    sv = Fixa kartdataproblem på OpenStreetMap.org.
-    sw = Rekebisha masuala ya data ya ramani katika OpenStreetMap.org.
-    th = แก้ไขปัญหาข้อมูลแผนที่ที่ OpenStreetMap.org
-    tr = OpenStreetMap.org'da harita verisi sorunlarını düzeltin.
-    uk = Виправте проблеми з даними карти на OpenStreetMap.org.
-    vi = Khắc phục sự cố dữ liệu bản đồ tại OpenStreetMap.org.
-    zh-Hans = 修复 OpenStreetMap.org 上的地图数据问题。
-    zh-Hant = 修復 OpenStreetMap.org 上的地圖數據問題。
 
   [connection_settings]
     tags = android

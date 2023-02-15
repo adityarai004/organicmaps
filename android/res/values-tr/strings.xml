@@ -48,8 +48,6 @@
 	<string name="about_proposition_3">• Hızlı ve minimalist</string>
 	<!-- Text in About screen -->
 	<string name="about_developed_by_enthusiasts">Açık kaynak topluluğunun meraklıları tarafından oluşturuldu.</string>
-	<!-- Text in About screen -->
-	<string name="about_report_to_osm">OpenStreetMap.org\'da harita verisi sorunlarını düzeltin.</string>
 	<string name="connection_settings">Konum Ayarları</string>
 	<string name="close">Kapat</string>
 	<string name="unsupported_phone">Hızlı donanıma sahip bir OpenGL gerekli. Ne yazık ki cihazınız desteklenmiyor.</string>

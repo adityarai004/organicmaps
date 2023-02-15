@@ -48,8 +48,6 @@
 	<string name="about_proposition_3">• รวดเร็วและเรียบง่าย</string>
 	<!-- Text in About screen -->
 	<string name="about_developed_by_enthusiasts">สร้างโดยผู้ที่ชื่นชอบจากชุมชนโอเพ่นซอร์ส.</string>
-	<!-- Text in About screen -->
-	<string name="about_report_to_osm">แก้ไขปัญหาข้อมูลแผนที่ที่ OpenStreetMap.org</string>
 	<string name="connection_settings">การตั้งค่าการเชื่อมต่อ</string>
 	<string name="close">ปิด</string>
 	<string name="unsupported_phone">จำเป็นต้องใช้ฮาร์ดแวร์ที่เพิ่มความเร็ว OpenGL โชคไม่ดีที่อุปกรณ์ของคุณไม่รองรับ</string>

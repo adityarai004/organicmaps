@@ -46,8 +46,6 @@
 	<string name="about_proposition_3">• Schnell und minimalistisch</string>
 	<!-- Text in About screen -->
 	<string name="about_developed_by_enthusiasts">Erstellt von Enthusiasten aus der Open-Source-Community</string>
-	<!-- Text in About screen -->
-	<string name="about_report_to_osm">Kartendatenprobleme auf OpenStreetMap.org beheben.</string>
 	<string name="connection_settings">Verbindungseinstellungen</string>
 	<string name="close">Schließen</string>
 	<string name="unsupported_phone">Das Programm benötigt OpenGL, um zu funktionieren. Leider wird Ihr Gerät nicht unterstützt.</string>

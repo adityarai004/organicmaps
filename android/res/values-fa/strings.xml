@@ -49,8 +49,6 @@
 	<string name="about_proposition_3">ﯽﺘﺴﯿﻟﺎﻤﯿﻨﯿﻣ ﻭ ﻊﯾﺮﺳ •</string>
 	<!-- Text in About screen -->
 	<string name="about_developed_by_enthusiasts">.ﺯﺎﺑ ﻊﺒﻨﻣ ﻪﻌﻣﺎﺟ ﺯﺍ ﻥﺍﺪﻨﻣ ﻪﻗﻼﻋ ﻂﺳﻮﺗ ﻩﺪﺷ ﺩﺎﺠﯾﺍ</string>
-	<!-- Text in About screen -->
-	<string name="about_report_to_osm">.ﺪﯿﻨﮐ ﻑﺮﻃﺮﺑ OpenStreetMap.org ﺭﺩ ﺍﺭ ﻪﺸﻘﻧ ﯼﺎﻫ ﻩﺩﺍﺩ ﺕﻼﮑﺸﻣ</string>
 	<string name="connection_settings">تنظیمات اتصال</string>
 	<string name="close">بستن</string>
 	<string name="unsupported_phone">نیازمند است. متاسفانه دستگاه شما از آن پشتیبانی نمی‌کندOpenGLبرنامه برای اجرا به</string>

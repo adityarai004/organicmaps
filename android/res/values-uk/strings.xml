@@ -49,8 +49,6 @@
 	<string name="about_proposition_3">• Швидкий і мінімалістичний</string>
 	<!-- Text in About screen -->
 	<string name="about_developed_by_enthusiasts">Створено ентузіастами спільноти відкритих програм.</string>
-	<!-- Text in About screen -->
-	<string name="about_report_to_osm">Виправте проблеми з даними карти на OpenStreetMap.org.</string>
 	<string name="connection_settings">Налаштування підключення</string>
 	<string name="close">Закрити</string>
 	<string name="unsupported_phone">Для роботи програми необхідний апаратно прискорений OpenGL. На жаль, ваш пристрій не підтримується.</string>

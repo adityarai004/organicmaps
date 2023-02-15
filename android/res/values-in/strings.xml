@@ -48,8 +48,6 @@
 	<string name="about_proposition_3">• Cepat dan minimalis</string>
 	<!-- Text in About screen -->
 	<string name="about_developed_by_enthusiasts">Dibuat oleh penggemar dari komunitas sumber terbuka.</string>
-	<!-- Text in About screen -->
-	<string name="about_report_to_osm">Perbaiki masalah data peta di OpenStreetMap.org.</string>
 	<string name="connection_settings">Pengaturan Koneksi</string>
 	<string name="close">Tutup</string>
 	<string name="unsupported_phone">OpenGL yang dipercepat oleh OpenGL diperlukan. Sayangnya, perangkat Anda tidak mendukung.</string>

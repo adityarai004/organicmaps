@@ -46,8 +46,6 @@
 	<string name="about_proposition_3">• जलद आणि किमानचौकटप्रबंधक</string>
 	<!-- Text in About screen -->
 	<string name="about_developed_by_enthusiasts">मुक्त-स्रोत समुदायातील उत्साही लोककां. तयार केलेले</string>
-	<!-- Text in About screen -->
-	<string name="about_report_to_osm">OpenStreetMap.org वर नकाशा डेटा समस्ययांचे निर.करण करा</string>
 	<string name="connection_settings">जोडणी सेटिंग</string>
 	<string name="close">बंद</string>
 	<string name="unsupported_phone">ह्या ऍपला हार्डवेअर प्रवेगक OpenGL आवश्यक आहे. दुर्दैवाने, तुमच्या उपकरणाला ह्याचा आधार नाही.</string>

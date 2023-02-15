@@ -39,15 +39,13 @@
 	<!-- Text in About screen -->
 	<string name="about_headline">Gratuito para todos, feito com amor.</string>
 	<!-- Text in About screen -->
-	<string name="about_proposition_1">• Sem anúncios, sem rastreamento</string>
+	<string name="about_proposition_1">• Sem anúncios ou rastreamento</string>
 	<!-- Text in About screen -->
-	<string name="about_proposition_2">• Não descarrega a bateria</string>
+	<string name="about_proposition_2">• Baixo consumo de bateria</string>
 	<!-- Text in About screen -->
 	<string name="about_proposition_3">• Rápido e minimalista</string>
 	<!-- Text in About screen -->
 	<string name="about_developed_by_enthusiasts">Criado por entusiastas da comunidade de código aberto.</string>
-	<!-- Text in About screen -->
-	<string name="about_report_to_osm">Corrija problemas de dados de mapas em OpenStreetMap.org.</string>
 	<string name="connection_settings">Definições de ligação</string>
 	<string name="close">Fechar</string>
 	<string name="unsupported_phone">É necessário a acelaração OpenGL por hardware. Infelizmente o seu dispositivo não é compatível.</string>

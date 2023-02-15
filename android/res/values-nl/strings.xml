@@ -46,8 +46,6 @@
 	<string name="about_proposition_3">• Snel en minimalistisch</string>
 	<!-- Text in About screen -->
 	<string name="about_developed_by_enthusiasts">Gemaakt door enthousiastelingen uit de open-sourcecommunity.</string>
-	<!-- Text in About screen -->
-	<string name="about_report_to_osm">Los problemen met kaartgegevens op OpenStreetMap.org op.</string>
 	<string name="connection_settings">Verbindingsinstellingen</string>
 	<string name="close">Sluiten</string>
 	<string name="unsupported_phone">Een hardware geaccellereerde OpenGL is nodig. Jammer genoeg wordt uw apparaat niet ondersteund.</string>

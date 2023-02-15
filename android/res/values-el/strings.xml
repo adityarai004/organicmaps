@@ -47,8 +47,6 @@
 	<string name="about_proposition_3">• Γρήγορο και μινιμαλιστικό</string>
 	<!-- Text in About screen -->
 	<string name="about_developed_by_enthusiasts">Δημιουργήθηκε από λάτρεις της κοινότητας ανοιχτού κώδικα.</string>
-	<!-- Text in About screen -->
-	<string name="about_report_to_osm">Διορθώστε προβλήματα δεδομένων χάρτη στο OpenStreetMap.org.</string>
 	<string name="connection_settings">Ρυθμίσεις σύνδεσης</string>
 	<string name="close">Κλείσιμο</string>
 	<string name="unsupported_phone">Η εφαρμογή απαιτεί OpenGL με επιτάχυνση υλικού. Δυστυχώς, η συσκευή σας δεν το υποστηρίζει.</string>

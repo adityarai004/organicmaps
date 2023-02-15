@@ -49,8 +49,6 @@
 	<string name="about_proposition_3">ﻂﻴﺴﺑﻭ ﻊﻳﺮﺳ •</string>
 	<!-- Text in About screen -->
 	<string name="about_developed_by_enthusiasts">. ﺔﺣﻮﺘﻔﻤﻟﺍ ﺭﺩﺎﺼﻤﻟﺍ ﻊﻤﺘﺠﻣ ﻦﻣ ﺓﺍﻮﻫ ﺔﻄﺳﺍﻮﺑ ﺎﻫﺅﺎﺸﻧﺇ ﻢﺗ</string>
-	<!-- Text in About screen -->
-	<string name="about_report_to_osm">.OpenStreetMap.org ﻊﻗﻮﻣ ﻰﻠﻋ ﻂﺋﺍﺮﺨﻟﺍ ﺕﺎﻧﺎﻴﺑ ﺕﻼﻜﺸﻣ ﺢﻠﺻﺃ</string>
 	<string name="connection_settings">إعدادات الاتصال</string>
 	<string name="close">إغلاق</string>
 	<string name="unsupported_phone">أنت بحاجة الى OpenGL بأجهزة تسريع. لسوء الحظ جهازك لا يدعم هذه الخاصية.</string>
