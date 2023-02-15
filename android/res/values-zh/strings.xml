@@ -177,6 +177,8 @@
 	<string name="copied_to_clipboard">复制到剪贴板:%1$s</string>
 	<!-- Used for bookmark editing -->
 	<string name="done">完成</string>
+	<!-- Data version in «About» screen, %@ is replaced by a local, human readable date. -->
+	<string name="data_version">OpenStreetMap 数据：%s</string>
 	<!-- Confirmation in downloading countries dialog -->
 	<string name="are_you_sure">您确定要继续吗？</string>
 	<!-- Title for tracks category in bookmarks manager -->
@@ -497,6 +499,8 @@
 	<!-- Dialog before publishing the modifications to the public map. -->
 	<string name="editor_share_to_all_dialog_message_1">确保您没有输入任何个人数据。</string>
 	<string name="editor_share_to_all_dialog_message_2">OpenStreetMap 编辑人员将检查更改并在有任何问题时与您联系。</string>
+	<!-- Text under the version number in the Help dialog. TODO: Synchronize other translations with English. -->
+	<string name="about_description">Organic Maps 是一款免费的开源离线地图应用程序。无广告。没有跟踪。如果您在地图上看到错误，请在 OpenStreetMap 中修复它。该项目由爱好者在我们的空闲时间创建，因此我们需要您的反馈和支持。</string>
 	<!-- For the first routing -->
 	<string name="accept">接受</string>
 	<!-- For the first routing -->

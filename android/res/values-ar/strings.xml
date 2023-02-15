@@ -193,6 +193,8 @@
 	<string name="copied_to_clipboard">تم النسخ الى الحافظة: %1$s</string>
 	<!-- Used for bookmark editing -->
 	<string name="done">تم</string>
+	<!-- Data version in «About» screen, %@ is replaced by a local, human readable date. -->
+	<string name="data_version">بيانات خريطة الشارع المفتوحة: %s</string>
 	<!-- Confirmation in downloading countries dialog -->
 	<string name="are_you_sure">هل أنت واثق أنك تريد الاستمرار؟</string>
 	<!-- Title for tracks category in bookmarks manager -->
@@ -523,6 +525,8 @@
 	<!-- Dialog before publishing the modifications to the public map. -->
 	<string name="editor_share_to_all_dialog_message_1">تأكد من أنك لم تقم بإدخال أية بيانات شخصية.</string>
 	<string name="editor_share_to_all_dialog_message_2">.ﺔﻠﺌﺳﺃ ﻱﺃ ﻢﻬﻳﺪﻟ ﻥﺎﻛ ﺍﺫﺇ ﻚﻌﻣ ﻥﻮﻠﺻﺍﻮﺘﻳﻭ ﺕﺍﺮﻴﻴﻐﺘﻟﺍ ﻦﻣ OpenStreetMap ﻭﺭﺮﺤﻣ ﻖﻘﺤﺘﻴﺳ</string>
+	<!-- Text under the version number in the Help dialog. TODO: Synchronize other translations with English. -->
+	<string name="about_description">Organic Maps هو تطبيق سريع ومجاني للوصول إلى الخرائط بدون اتصال بالانترنت، وهو بدون إعلانات ومتتبعات. إن الخرائط هي مصدرها بيانات خريطة الشارع المفتوحة التي يستطيع الجميع تعديلها، لذلك يمكنك إصلاح أخطاء الخريطة وإضافة الميزات بنفسك. Organic Maps هو مشروع مفتوح المصدر أُنشأ من قبل مجموعة من الهواة في وقت فراغهم. نقدّر جداً مساهماتك ودعمك.</string>
 	<!-- For the first routing -->
 	<string name="accept">قبول</string>
 	<!-- For the first routing -->

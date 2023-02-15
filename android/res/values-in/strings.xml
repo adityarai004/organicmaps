@@ -179,6 +179,8 @@
 	<string name="copied_to_clipboard">Telah Disalin ke Papan Klip: %1$s</string>
 	<!-- Used for bookmark editing -->
 	<string name="done">Selesai</string>
+	<!-- Data version in «About» screen, %@ is replaced by a local, human readable date. -->
+	<string name="data_version">Data OpenStreetMap: %s</string>
 	<!-- Confirmation in downloading countries dialog -->
 	<string name="are_you_sure">Apakah Anda yakin ingin melanjutkan?</string>
 	<!-- Title for tracks category in bookmarks manager -->
@@ -487,6 +489,8 @@
 	<!-- Dialog before publishing the modifications to the public map. -->
 	<string name="editor_share_to_all_dialog_message_1">Pastikan Anda tidak memasukkan data pribadi apa pun.</string>
 	<string name="editor_share_to_all_dialog_message_2">Editor OpenStreetMap akan memeriksa perubahan dan menghubungi Anda jika ada pertanyaan.</string>
+	<!-- Text under the version number in the Help dialog. TODO: Synchronize other translations with English. -->
+	<string name="about_description">Organic Maps adalah aplikasi peta offline sumber terbuka dan gratis. Tanpa iklan. Tidak ada pelacakan. Jika Anda melihat kesalahan pada peta, harap perbaiki di OpenStreetMap. Proyek ini dibuat oleh para penggemar di waktu luang kami, jadi kami membutuhkan masukan dan dukungan Anda.</string>
 	<!-- For the first routing -->
 	<string name="accept">Terima</string>
 	<!-- For the first routing -->

@@ -190,6 +190,8 @@
 	<string name="copied_to_clipboard">In die Zwischenablage kopiert: %1$s</string>
 	<!-- Used for bookmark editing -->
 	<string name="done">Fertig</string>
+	<!-- Data version in «About» screen, %@ is replaced by a local, human readable date. -->
+	<string name="data_version">OpenStreetMap-Daten: %s</string>
 	<!-- Confirmation in downloading countries dialog -->
 	<string name="are_you_sure">Möchten Sie wirklich fortfahren?</string>
 	<!-- Title for tracks category in bookmarks manager -->
@@ -516,6 +518,8 @@
 	<!-- Dialog before publishing the modifications to the public map. -->
 	<string name="editor_share_to_all_dialog_message_1">Stellen Sie sicher, dass Sie keine persönlichen Daten eingegeben haben.</string>
 	<string name="editor_share_to_all_dialog_message_2">OpenStreetMap-Redakteure werden die Änderungen prüfen und sich bei Fragen mit Ihnen in Verbindung setzen.</string>
+	<!-- Text under the version number in the Help dialog. TODO: Synchronize other translations with English. -->
+	<string name="about_description">Organic Maps ist eine schnelle und kostenlose Offline-Karten-App ohne Werbung und Tracking. Die Karten basieren auf den Daten von OpenStreetMap.org, so dass Sie selbst Kartenfehler beheben und Orte hinzufügen können. Organic Maps ist ein Open-Source-Projekt, das von Enthusiasten in ihrer Freizeit entwickelt wird. Ihr Feedback und Ihre Unterstützung sind sehr willkommen!</string>
 	<!-- For the first routing -->
 	<string name="accept">Annehmen</string>
 	<!-- For the first routing -->

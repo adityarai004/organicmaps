@@ -192,6 +192,8 @@
 	<string name="copied_to_clipboard">Copié dans le presse-papiers : %1$s</string>
 	<!-- Used for bookmark editing -->
 	<string name="done">Terminé</string>
+	<!-- Data version in «About» screen, %@ is replaced by a local, human readable date. -->
+	<string name="data_version">Données OpenStreetMap : %s</string>
 	<!-- Confirmation in downloading countries dialog -->
 	<string name="are_you_sure">Êtes-vous certain de vouloir continuer ?</string>
 	<!-- Title for tracks category in bookmarks manager -->
@@ -522,6 +524,8 @@
 	<!-- Dialog before publishing the modifications to the public map. -->
 	<string name="editor_share_to_all_dialog_message_1">Assurez-vous de n’avoir pas saisi de données personnelles.</string>
 	<string name="editor_share_to_all_dialog_message_2">Les éditeurs d\'OpenStreetMap vérifieront vos modifications et vous contacteront s\'ils ont des questions.</string>
+	<!-- Text under the version number in the Help dialog. TODO: Synchronize other translations with English. -->
+	<string name="about_description">Organic Maps est une application de cartographie hors ligne gratuite et open source. Pas de pubs. Pas de localisation. Si vous voyez une erreur sur la carte, veuillez la corriger dans OpenStreetMap. Le projet est créé par des passionnés pendant notre temps libre, nous avons donc besoin de vos commentaires et de votre soutien.</string>
 	<!-- For the first routing -->
 	<string name="accept">Accepter</string>
 	<!-- For the first routing -->

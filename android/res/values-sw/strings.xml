@@ -34,6 +34,8 @@
 	<string name="water">Maji</string>
 	<!-- Search category for RV facilities; any changes should be duplicated in categories.txt @rv! -->
 	<string name="rv">Kwa RV</string>
+	<!-- Data version in «About» screen, %@ is replaced by a local, human readable date. -->
+	<string name="data_version">Data ya OpenStreetMap: %s</string>
 	<!-- Text in About menu, opens Organic Maps news website -->
 	<string name="news">Habari</string>
 	<!-- Button in the main Help dialog -->
@@ -72,6 +74,8 @@
 	<string name="osm_presentation">Data ya ramani inatoka OpenStreetMap kuanzia %s. Ni kama Wikipedia ya ramani ambapo unaweza kuongeza au kuhariri maeneo kwa watumiaji wote duniani kote.</string>
 	<string name="editor_other_info">Tuma ujumbe kwenye vihariri vya OSM</string>
 	<string name="editor_share_to_all_dialog_message_2">Wahariri wa OpenStreetMap watakagua mabadiliko na kuwasiliana nawe ikiwa wana maswali yoyote.</string>
+	<!-- Text under the version number in the Help dialog. TODO: Synchronize other translations with English. -->
+	<string name="about_description">Organic Maps ni programu huria na ya chanzo huria ya ramani za nje ya mtandao. Hakuna matangazo. Hakuna ufuatiliaji. Ukiona hitilafu kwenye ramani, tafadhali irekebishe katika OpenStreetMap. Mradi huu umeundwa na wapendaji katika wakati wetu wa bure, kwa hivyo tunahitaji maoni na usaidizi wako.</string>
 	<!-- Settings: "Send general feedback" button -->
 	<string name="feedback_general">Maoni Jumla</string>
 	<string name="on">Washa</string>
