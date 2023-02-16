@@ -30,6 +30,8 @@ constexpr char const * kUploadStatus = "upload_status";
 constexpr char const * kUploadError = "upload_error";
 constexpr char const * kHouseNumber = "addr:housenumber";
 constexpr char const * kCuisine = "cuisine";
+constexpr char const * kDietVegetarian = "diet:vegetarian";
+constexpr char const * kDietVegan = "diet:vegan";
 
 constexpr char const * kUnknownType = "unknown";
 constexpr char const * kNodeType = "node";
@@ -300,9 +302,69 @@ string XMLFeature::GetHouse() const { return GetTagValue(kHouseNumber); }
 
 void XMLFeature::SetHouse(string const & house) { SetTagValue(kHouseNumber, house); }
 
-string XMLFeature::GetCuisine() const { return GetTagValue(kCuisine); }
+/// https://github.com/organicmaps/organicmaps/issues/1118
+/// @todo Make full diet:xxx support.
+/// @{
+string XMLFeature::GetCuisine() const
+{
+  auto res = GetTagValue(kCuisine);
+  auto const AppendCuisine = [&res](std::string_view s)
+  {
+    if (!res.empty())
+      res += ';';
+    res += s;
+  };
 
-void XMLFeature::SetCuisine(string const & cuisine) { SetTagValue(kCuisine, cuisine); }
+  if (auto const v = GetTagValue("diet:vegan"); v == "yes")
+    AppendCuisine("vegan");
+  if (auto const v = GetTagValue("diet:vegetarian"); v == "yes")
+    AppendCuisine("vegetarian");
+  return res;
+}
+
+void XMLFeature::SetCuisine(string cuisine)
+{
+  auto const FindAndErase = [&cuisine](std::string_view s)
+  {
+    size_t const i = cuisine.find(s);
+    if (i != std::string_view::npos)
+    {
+      size_t from = 0;
+      size_t sz = s.size();
+      if (i > 0)
+      {
+        from = i-1;
+        ASSERT_EQUAL(cuisine[from], ';', ());
+        ++sz;
+      }
+      else if (cuisine.size() > sz)
+      {
+        ASSERT_EQUAL(cuisine[sz], ';', ());
+        ++sz;
+      }
+
+      cuisine.erase(from, sz);
+      return true;
+    }
+    return false;
+  };
+
+  if (FindAndErase("vegan"))
+    SetTagValue(kDietVegan, "yes");
+  else
+    RemoveTag(kDietVegan);
+
+  if (FindAndErase("vegetarian"))
+    SetTagValue(kDietVegetarian, "yes");
+  else
+    RemoveTag(kDietVegetarian);
+
+  if (!cuisine.empty())
+    SetTagValue(kCuisine, cuisine);
+  else
+    RemoveTag(kCuisine);
+}
+/// @}
 
 time_t XMLFeature::GetModificationTime() const
 {
@@ -377,6 +439,13 @@ void XMLFeature::SetTagValue(string_view key, string_view value)
   {
     tag.attribute("v").set_value(value.data(), value.size());
   }
+}
+
+void XMLFeature::RemoveTag(string_view key)
+{
+  auto tag = FindTag(m_document, key);
+  if (tag)
+    GetRootNode().remove_child(tag);
 }
 
 string XMLFeature::GetAttribute(string const & key) const
