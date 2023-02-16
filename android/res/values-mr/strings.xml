@@ -36,16 +36,6 @@
 	<!-- Button text for the button under the country_status_download_failed message -->
 	<string name="try_again">पुन्हा प्रयत्न करा</string>
 	<string name="about_menu_title">Organic Maps बद्दल</string>
-	<!-- Text in About screen -->
-	<string name="about_headline">प्रत्येकासाठी विनामूल्य, प्रेमाने बनवलेले.</string>
-	<!-- Text in About screen -->
-	<string name="about_proposition_1">• जाहिराती नाहीत, ट्रॅककिंग नाही, डेटा संग्रह नाही</string>
-	<!-- Text in About screen -->
-	<string name="about_proposition_2">• बॅटरी काढून टाकत नाही</string>
-	<!-- Text in About screen -->
-	<string name="about_proposition_3">• जलद आणि किमानचौकटप्रबंधक</string>
-	<!-- Text in About screen -->
-	<string name="about_developed_by_enthusiasts">मुक्त-स्रोत समुदायातील उत्साही लोककां. तयार केलेले</string>
 	<string name="connection_settings">जोडणी सेटिंग</string>
 	<string name="close">बंद</string>
 	<string name="unsupported_phone">ह्या ऍपला हार्डवेअर प्रवेगक OpenGL आवश्यक आहे. दुर्दैवाने, तुमच्या उपकरणाला ह्याचा आधार नाही.</string>
@@ -435,8 +425,6 @@
 	<string name="editor_report_problem_other_title">वेगळी समस्या</string>
 	<string name="placepage_add_business_button">व्यवसाय जोडा</string>
 	<string name="message_invalid_feature_position">इथे कोणतीही वस्तू ठेवू शकत नाही</string>
-	<!-- Text in About and OSM Login screens. %@ is replaced by a local, human readable date. -->
-	<string name="osm_presentation">%s पर्यंतचा नकाशा डेटा OpenStreetMap वरून आहे. हे नकाशांसाठी विकिपीडियासारखे आहे जेथे तुम्ही जगभरातील सर्व वापरकर्त्यांसाठी ठिकाणे जोडू किंवा संपादित करू शकता.</string>
 	<string name="login_to_make_edits_visible">इतर वापरकर्त्यांना तुम्ही केलेले बदल दिसण्यासाठी लॉग इन करा</string>
 	<!-- Downloaded 10 **of** 20 <- it is that "of" -->
 	<string name="downloader_of">%2$d पैकी %1$d</string>

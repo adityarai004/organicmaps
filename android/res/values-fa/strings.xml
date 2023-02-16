@@ -40,15 +40,15 @@
 	<string name="try_again">تلاش مجدد</string>
 	<string name="about_menu_title">Organic Maps درباره‌ی</string>
 	<!-- Text in About screen -->
-	<string name="about_headline">.ﻖﺸﻋ ﺎﺑ ﻩﺪﺷ ﻪﺘﺧﺎﺳ ،ﻪﻤﻫ ﯼﺍﺮﺑ ﻥﺎﮕﯾﺍﺭ</string>
+	<string name="about_headline">رایگان برای همه ، ساخته شده با عشق</string>
 	<!-- Text in About screen -->
-	<string name="about_proposition_1">ﺕﺭﺎﻈﻧ ﻥﻭﺪﺑ ،ﯽﺑﺎﯾﺩﺭ ﻥﻭﺪﺑ ،ﺕﺎﻐﯿﻠﺒﺗ ﻥﻭﺪﺑ •</string>
+	<string name="about_proposition_1">• بدون تبلیغات ، ردیابی ، جمع آوری داده ها</string>
 	<!-- Text in About screen -->
-	<string name="about_proposition_2">• ﺪﻨﮐ ﯽﻤﻧ ﯽﻟﺎﺧ ﺍﺭ ﯼﺮﺗﺎﺑ</string>
+	<string name="about_proposition_2">• بدون تخلیه باتری ، بدون داده های پس زمینه</string>
 	<!-- Text in About screen -->
-	<string name="about_proposition_3">ﯽﺘﺴﯿﻟﺎﻤﯿﻨﯿﻣ ﻭ ﻊﯾﺮﺳ •</string>
+	<string name="about_proposition_3">• سریع ، مینیمالیستی ، بدون آشغال</string>
 	<!-- Text in About screen -->
-	<string name="about_developed_by_enthusiasts">.ﺯﺎﺑ ﻊﺒﻨﻣ ﻪﻌﻣﺎﺟ ﺯﺍ ﻥﺍﺪﻨﻣ ﻪﻗﻼﻋ ﻂﺳﻮﺗ ﻩﺪﺷ ﺩﺎﺠﯾﺍ</string>
+	<string name="about_developed_by_enthusiasts">برنامه منبع باز ایجاد شده توسط علاقه مندان و داوطلبان.</string>
 	<string name="connection_settings">تنظیمات اتصال</string>
 	<string name="close">بستن</string>
 	<string name="unsupported_phone">نیازمند است. متاسفانه دستگاه شما از آن پشتیبانی نمی‌کندOpenGLبرنامه برای اجرا به</string>
@@ -430,7 +430,7 @@
 	<string name="placepage_add_business_button">اضافه کردن یک تجارت</string>
 	<string name="message_invalid_feature_position">نمی توان شی ای در این مکان باشد</string>
 	<!-- Text in About and OSM Login screens. %@ is replaced by a local, human readable date. -->
-	<string name="osm_presentation">داده های نقشه از OpenStreetMap در تاریخ %s است. مانند ویکی‌پدیا برای نقشه‌هایی است که می‌توانید مکان‌هایی را برای همه کاربران در سراسر جهان اضافه یا ویرایش کنید.</string>
+	<string name="osm_presentation">داده های نقشه برداری از OpenStreetMap از %s. این مانند ویکی پدیا است که می توانید مکانهایی را برای همه کاربران در سراسر جهان اضافه یا ویرایش کنید.</string>
 	<string name="login_to_make_edits_visible">وارد شوید تا دیگر کاربران نیز بتوانند تغییرات ایجاد شده توسط شما را ببینند</string>
 	<!-- Downloaded 10 **of** 20 <- it is that "of" -->
 	<string name="downloader_of">%1$d  از  %2$d</string>

@@ -40,15 +40,15 @@
 	<string name="try_again">محاولة مرة أخرى</string>
 	<string name="about_menu_title">حول Organic Maps</string>
 	<!-- Text in About screen -->
-	<string name="about_headline">.ﺐﺤﻟﺍ ﻦﻣ ﻉﻮﻨﺼﻣ ، ﻊﻴﻤﺠﻠﻟ ﻲﻧﺎﺠﻣ</string>
+	<string name="about_headline">مجاني للجميع ، مصنوع من الحب</string>
 	<!-- Text in About screen -->
-	<string name="about_proposition_1">ﺕﺎﻧﺎﻴﺒﻟﺍ ﻊﻤﺟ ﻻ ، ﻊﺒﺘﺗ ﻻ ، ﺕﺎﻧﻼﻋﺇ ﻻ •</string>
+	<string name="about_proposition_1">• لا إعلانات ، لا تتبع ، لا جمع البيانات</string>
 	<!-- Text in About screen -->
-	<string name="about_proposition_2">ﺔﻳﺭﺎﻄﺒﻟﺍ ﻑﺰﻨﺘﺴﺗ ﻻ •</string>
+	<string name="about_proposition_2">• لا تصريف بطارية ، لا توجد بيانات خلفية</string>
 	<!-- Text in About screen -->
-	<string name="about_proposition_3">ﻂﻴﺴﺑﻭ ﻊﻳﺮﺳ •</string>
+	<string name="about_proposition_3">• سريع ، الحد الأدنى ، لا خردة</string>
 	<!-- Text in About screen -->
-	<string name="about_developed_by_enthusiasts">. ﺔﺣﻮﺘﻔﻤﻟﺍ ﺭﺩﺎﺼﻤﻟﺍ ﻊﻤﺘﺠﻣ ﻦﻣ ﺓﺍﻮﻫ ﺔﻄﺳﺍﻮﺑ ﺎﻫﺅﺎﺸﻧﺇ ﻢﺗ</string>
+	<string name="about_developed_by_enthusiasts">تطبيق مفتوح المصدر الذي أنشأه المتحمسون والمتطوعون.</string>
 	<string name="connection_settings">إعدادات الاتصال</string>
 	<string name="close">إغلاق</string>
 	<string name="unsupported_phone">أنت بحاجة الى OpenGL بأجهزة تسريع. لسوء الحظ جهازك لا يدعم هذه الخاصية.</string>
@@ -462,7 +462,7 @@
 	<string name="placepage_add_business_button">إضافة مؤسسة</string>
 	<string name="message_invalid_feature_position">لا يمكن تحديد موقع الكائن هنا</string>
 	<!-- Text in About and OSM Login screens. %@ is replaced by a local, human readable date. -->
-	<string name="osm_presentation">بيانات الخريطة مأخوذة من OpenStreetMap اعتبارًا من %s. إنه يشبه ويكيبيديا للخرائط حيث يمكنك إضافة أو تعديل الأماكن لجميع المستخدمين في جميع أنحاء العالم.</string>
+	<string name="osm_presentation">بيانات رسم الخرائط من OpenStreetMap اعتبارًا من %s. إنه مثل ويكيبيديا حيث يمكنك إضافة أو تحرير أماكن لجميع المستخدمين في جميع أنحاء العالم.</string>
 	<string name="login_to_make_edits_visible">قم بتسجيل الدخول حتى يتمكن باقي المستخدمين من رؤية التغييرات التي قمت بها.</string>
 	<!-- Downloaded 10 **of** 20 <- it is that "of" -->
 	<string name="downloader_of">%1$d من%2$d</string>

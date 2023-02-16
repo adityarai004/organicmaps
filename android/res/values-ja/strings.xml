@@ -37,15 +37,15 @@
 	<string name="try_again">再実行</string>
 	<string name="about_menu_title">Organic Mapsについて</string>
 	<!-- Text in About screen -->
-	<string name="about_headline">誰でも無料で、愛を込めて作られています。</string>
+	<string name="about_headline">すべての人のために無料で、愛を込めて作られています</string>
 	<!-- Text in About screen -->
-	<string name="about_proposition_1">• 広告なし、追跡なし、監視なし</string>
+	<string name="about_proposition_1">•広告、追跡なし、データ収集なし</string>
 	<!-- Text in About screen -->
-	<string name="about_proposition_2">• バッテリーを消耗しない</string>
+	<string name="about_proposition_2">•バッテリーの排水、背景データはありません</string>
 	<!-- Text in About screen -->
-	<string name="about_proposition_3">• 高速でミニマリスト</string>
+	<string name="about_proposition_3">•速く、ミニマルな、ジャンクなし</string>
 	<!-- Text in About screen -->
-	<string name="about_developed_by_enthusiasts">オープンソース コミュニティの愛好家によって作成されました。</string>
+	<string name="about_developed_by_enthusiasts">愛好家とボランティアによって作成されたオープンソースアプリケーション。</string>
 	<string name="connection_settings">接続設定</string>
 	<string name="close">閉じる</string>
 	<string name="unsupported_phone">ハードウェアアクセラレーションされたOpenGLが必要です。残念ながらご利用中のデバイスではサポートされていません。</string>
@@ -431,7 +431,7 @@
 	<string name="placepage_add_business_button">団体を追加</string>
 	<string name="message_invalid_feature_position">ここにはオブジェクトを配置できません</string>
 	<!-- Text in About and OSM Login screens. %@ is replaced by a local, human readable date. -->
-	<string name="osm_presentation">地図データは %s 日時点の OpenStreetMap のものです。 これは、世界中のすべてのユーザーの場所を追加または編集できるマップの Wikipedia のようなものです。</string>
+	<string name="osm_presentation">%sの時点でのOpenStreetMapからの地図作成データ。これは、世界中のすべてのユーザーの場所を追加または編集できるウィキペディアのようなものです。</string>
 	<string name="login_to_make_edits_visible">他のユーザーにも変更が表示されるようログインしてください。</string>
 	<!-- Downloaded 10 **of** 20 <- it is that "of" -->
 	<string name="downloader_of">%2$d中%1$d</string>

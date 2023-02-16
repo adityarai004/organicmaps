@@ -36,16 +36,6 @@
 	<!-- Button text for the button under the country_status_download_failed message -->
 	<string name="try_again">Torna-ho a intentar</string>
 	<string name="about_menu_title">Quant a l\'Organic Maps</string>
-	<!-- Text in About screen -->
-	<string name="about_headline">Gratuït per a tothom, fet amb amor.</string>
-	<!-- Text in About screen -->
-	<string name="about_proposition_1">• Sense anuncis, sense rastrejadors</string>
-	<!-- Text in About screen -->
-	<string name="about_proposition_2">• No esgota la bateria</string>
-	<!-- Text in About screen -->
-	<string name="about_proposition_3">• Ràpid i minimalista</string>
-	<!-- Text in About screen -->
-	<string name="about_developed_by_enthusiasts">Creat per entusiastes de la comunitat de codi obert.</string>
 	<string name="connection_settings">Paràmetres de connexió</string>
 	<string name="close">Tanca</string>
 	<string name="unsupported_phone">L\'aplicació requereix acceleració per maquinari OpenGL. Malauradament, el vostre aparell no ho suporta.</string>
@@ -457,8 +447,6 @@
 	<string name="editor_report_problem_other_title">Un altre problema</string>
 	<string name="placepage_add_business_button">Afegeix un negoci</string>
 	<string name="message_invalid_feature_position">No s\'ha trobat cap objecte aquí</string>
-	<!-- Text in About and OSM Login screens. %@ is replaced by a local, human readable date. -->
-	<string name="osm_presentation">Les dades del mapa són d\'OpenStreetMap a partir del %s. És com la Viquipèdia per als mapes on podeu afegir o editar llocs per a tots els usuaris del món.</string>
 	<string name="login_to_make_edits_visible">Inicieu sessió perquè altres usuaris puguin veure els canvis que heu fet</string>
 	<!-- Downloaded 10 **of** 20 <- it is that "of" -->
 	<string name="downloader_of">%1$d de %2$d</string>

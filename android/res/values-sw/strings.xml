@@ -5,15 +5,15 @@
 <resources>
 	<!-- SECTION: Strings -->
 	<!-- Text in About screen -->
-	<string name="about_headline">Bure kwa kila mtu, iliyoundwa kwa upendo.</string>
+	<string name="about_headline">Bure kwa kila mtu, iliyotengenezwa na upendo</string>
 	<!-- Text in About screen -->
-	<string name="about_proposition_1">• Hakuna matangazo, hakuna ufuatiliaji</string>
+	<string name="about_proposition_1">• Hakuna matangazo, hakuna ufuatiliaji, hakuna mkusanyiko wa data</string>
 	<!-- Text in About screen -->
-	<string name="about_proposition_2">• Haimalizi betri</string>
+	<string name="about_proposition_2">• Hakuna kukimbia kwa betri, hakuna data ya nyuma</string>
 	<!-- Text in About screen -->
-	<string name="about_proposition_3">• Haraka na minimalist</string>
+	<string name="about_proposition_3">• Haraka, minimalistic, hakuna taka</string>
 	<!-- Text in About screen -->
-	<string name="about_developed_by_enthusiasts">Imeundwa na wakereketwa kutoka kwa jumuiya ya chanzo huria.</string>
+	<string name="about_developed_by_enthusiasts">Maombi ya chanzo-wazi iliyoundwa na wanaovutia na wanaojitolea.</string>
 	<!-- Header of settings activity where user defines storage path -->
 	<string name="maps_storage">Hifadhi ramani kwenye</string>
 
@@ -71,7 +71,7 @@
 	<string name="login_osm">Ingia kwa OpenStreetMap</string>
 	<string name="level">Ghorofa</string>
 	<!-- Text in About and OSM Login screens. %@ is replaced by a local, human readable date. -->
-	<string name="osm_presentation">Data ya ramani inatoka OpenStreetMap kuanzia %s. Ni kama Wikipedia ya ramani ambapo unaweza kuongeza au kuhariri maeneo kwa watumiaji wote duniani kote.</string>
+	<string name="osm_presentation">Takwimu za katuni kutoka kwa OpenStreetMap kama ya %s. Ni kama Wikipedia ambapo unaweza kuongeza au kuhariri maeneo kwa watumiaji wote ulimwenguni.</string>
 	<string name="editor_other_info">Tuma ujumbe kwenye vihariri vya OSM</string>
 	<string name="editor_share_to_all_dialog_message_2">Wahariri wa OpenStreetMap watakagua mabadiliko na kuwasiliana nawe ikiwa wana maswali yoyote.</string>
 	<!-- Text under the version number in the Help dialog. TODO: Synchronize other translations with English. -->

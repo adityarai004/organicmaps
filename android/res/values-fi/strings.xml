@@ -39,15 +39,15 @@
 	<string name="try_again">Yritä uudelleen</string>
 	<string name="about_menu_title">Tietoa Organic Maps:stä</string>
 	<!-- Text in About screen -->
-	<string name="about_headline">Ilmainen kaikille, tehty rakkaudella.</string>
+	<string name="about_headline">Ilmainen kaikille, tehty rakkaudella</string>
 	<!-- Text in About screen -->
-	<string name="about_proposition_1">• Ei mainoksia, ei seurantaa</string>
+	<string name="about_proposition_1">• Ei mainoksia, ei seurantaa, ei tiedonkeruua</string>
 	<!-- Text in About screen -->
-	<string name="about_proposition_2">• Ei tyhjennä akkua</string>
+	<string name="about_proposition_2">• Ei akun tyhjennystä, ei taustatietoja</string>
 	<!-- Text in About screen -->
-	<string name="about_proposition_3">• Nopea ja minimalistinen</string>
+	<string name="about_proposition_3">• Nopea, minimalistinen, ei roskaa</string>
 	<!-- Text in About screen -->
-	<string name="about_developed_by_enthusiasts">Avoimen lähdekoodin yhteisön harrastajien luoma.</string>
+	<string name="about_developed_by_enthusiasts">Harrastajien ja vapaaehtoisten luoma avoimen lähdekoodin sovellus.</string>
 	<string name="connection_settings">Yhteysasetukset</string>
 	<string name="close">Sulje</string>
 	<string name="unsupported_phone">Laitteistokiihdytetty OpenGL vaaditaan. Valitettavasti laitteesi ei ole tuettu.</string>
@@ -439,7 +439,7 @@
 	<string name="placepage_add_business_button">Lisää organisaatio</string>
 	<string name="message_invalid_feature_position">Kohdetta ei voida asettaa tänne</string>
 	<!-- Text in About and OSM Login screens. %@ is replaced by a local, human readable date. -->
-	<string name="osm_presentation">Karttatiedot ovat OpenStreetMapista %s. Se on kuin karttojen Wikipedia, jossa voit lisätä tai muokata paikkoja kaikille käyttäjille ympäri maailmaa.</string>
+	<string name="osm_presentation">Kartografiset tiedot OpenStreetMapista vuodesta %s. Se on kuin Wikipedia, johon voit lisätä tai muokata paikkoja kaikille käyttäjille ympäri maailmaa.</string>
 	<string name="login_to_make_edits_visible">Kirjaudu sisään jotta muut käyttäjät voivat nähdä tekemäsi muokkaukset.</string>
 	<!-- Downloaded 10 **of** 20 <- it is that "of" -->
 	<string name="downloader_of">%1$d/%2$d</string>

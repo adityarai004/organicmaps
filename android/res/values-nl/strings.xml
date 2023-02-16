@@ -37,15 +37,15 @@
 	<string name="try_again">Opnieuw proberen</string>
 	<string name="about_menu_title">Over Organic Maps</string>
 	<!-- Text in About screen -->
-	<string name="about_headline">Gratis voor iedereen, met liefde gemaakt.</string>
+	<string name="about_headline">Gratis voor iedereen, gemaakt met liefde</string>
 	<!-- Text in About screen -->
-	<string name="about_proposition_1">• Geen advertenties, geen tracking</string>
+	<string name="about_proposition_1">• Geen advertenties, geen tracking, geen gegevensverzameling</string>
 	<!-- Text in About screen -->
-	<string name="about_proposition_2">• Trekt de batterij niet leeg</string>
+	<string name="about_proposition_2">• Geen batterijafvoer, geen achtergrondgegevens</string>
 	<!-- Text in About screen -->
-	<string name="about_proposition_3">• Snel en minimalistisch</string>
+	<string name="about_proposition_3">• Snel, minimalistisch, geen junk</string>
 	<!-- Text in About screen -->
-	<string name="about_developed_by_enthusiasts">Gemaakt door enthousiastelingen uit de open-sourcecommunity.</string>
+	<string name="about_developed_by_enthusiasts">Open-source applicatie gemaakt door enthousiastelingen en vrijwilligers.</string>
 	<string name="connection_settings">Verbindingsinstellingen</string>
 	<string name="close">Sluiten</string>
 	<string name="unsupported_phone">Een hardware geaccellereerde OpenGL is nodig. Jammer genoeg wordt uw apparaat niet ondersteund.</string>
@@ -455,7 +455,7 @@
 	<string name="placepage_add_business_button">Een organisatie toevoegen</string>
 	<string name="message_invalid_feature_position">Hier kan geen object worden geplaatst</string>
 	<!-- Text in About and OSM Login screens. %@ is replaced by a local, human readable date. -->
-	<string name="osm_presentation">Kaartgegevens zijn afkomstig van OpenStreetMap vanaf %s. Het is als Wikipedia voor kaarten waar u plaatsen kunt toevoegen of bewerken voor alle gebruikers over de hele wereld.</string>
+	<string name="osm_presentation">Cartografische gegevens van de OpenStreetMap vanaf %s. Het is net als Wikipedia waar u plaatsen kunt toevoegen of bewerken voor alle gebruikers over de hele wereld.</string>
 	<string name="login_to_make_edits_visible">Log in zodat andere gebruikers kunnen zien wat u hebt gewijzigd.</string>
 	<!-- Downloaded 10 **of** 20 <- it is that "of" -->
 	<string name="downloader_of">%1$d van %2$d</string>

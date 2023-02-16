@@ -39,15 +39,15 @@
 	<string name="try_again">Tekrar Dene</string>
 	<string name="about_menu_title">Organic Maps Hakkında</string>
 	<!-- Text in About screen -->
-	<string name="about_headline">Sevgiyle yapılmış, herkes için ücretsiz.</string>
+	<string name="about_headline">Herkes için ücretsiz, aşkla yapılmış</string>
 	<!-- Text in About screen -->
-	<string name="about_proposition_1">• Reklam yok, izleme yok</string>
+	<string name="about_proposition_1">• Reklam yok, izleme yok, veri toplama yok</string>
 	<!-- Text in About screen -->
-	<string name="about_proposition_2">• Pili boşaltmaz</string>
+	<string name="about_proposition_2">• Pil tahliyesi yok, arka plan verisi yok</string>
 	<!-- Text in About screen -->
-	<string name="about_proposition_3">• Hızlı ve minimalist</string>
+	<string name="about_proposition_3">• Hızlı, minimalist, önemsiz</string>
 	<!-- Text in About screen -->
-	<string name="about_developed_by_enthusiasts">Açık kaynak topluluğunun meraklıları tarafından oluşturuldu.</string>
+	<string name="about_developed_by_enthusiasts">Meraklılar ve gönüllüler tarafından oluşturulan açık kaynaklı başvuru.</string>
 	<string name="connection_settings">Konum Ayarları</string>
 	<string name="close">Kapat</string>
 	<string name="unsupported_phone">Hızlı donanıma sahip bir OpenGL gerekli. Ne yazık ki cihazınız desteklenmiyor.</string>
@@ -459,7 +459,7 @@
 	<string name="placepage_add_business_button">Kuruluş ekle</string>
 	<string name="message_invalid_feature_position">Buraya bir nesne konumlandırılamıyor</string>
 	<!-- Text in About and OSM Login screens. %@ is replaced by a local, human readable date. -->
-	<string name="osm_presentation">Harita verileri, %s itibarıyla OpenStreetMap\'ten alınmıştır. Dünyadaki tüm kullanıcılar için yer ekleyebileceğiniz veya düzenleyebileceğiniz haritalar için Wikipedia gibidir.</string>
+	<string name="osm_presentation">%s itibariyle OpenstreetMap\'tan kartografik veriler. Dünyadaki tüm kullanıcılar için yerleri ekleyebileceğiniz veya düzenleyebileceğiniz Wikipedia gibidir.</string>
 	<string name="login_to_make_edits_visible">Diğer kullanıcıların yaptığınız değişiklikleri görebilmesi için OpenStreetMap.org\'da oturum açın.</string>
 	<!-- Downloaded 10 **of** 20 <- it is that "of" -->
 	<string name="downloader_of">%1$d/%2$d</string>

@@ -39,15 +39,15 @@
 	<string name="try_again">Réessayer</string>
 	<string name="about_menu_title">À propos de Organic Maps</string>
 	<!-- Text in About screen -->
-	<string name="about_headline">Gratuit pour tout le monde, fait avec amour.</string>
+	<string name="about_headline">Gratuit pour tout le monde, fait avec amour</string>
 	<!-- Text in About screen -->
-	<string name="about_proposition_1">• Pas de publicité, pas de pistage</string>
+	<string name="about_proposition_1">• Pas d\'annonces, pas de suivi, pas de collecte de données</string>
 	<!-- Text in About screen -->
-	<string name="about_proposition_2">• Ne vide pas la batterie</string>
+	<string name="about_proposition_2">• Pas de dédnuage de la batterie, pas de données de fond</string>
 	<!-- Text in About screen -->
-	<string name="about_proposition_3">• Rapide et minimaliste</string>
+	<string name="about_proposition_3">• Rapide, minimaliste, pas de déchets</string>
 	<!-- Text in About screen -->
-	<string name="about_developed_by_enthusiasts">Créé par des passionnés de la communauté open-source</string>
+	<string name="about_developed_by_enthusiasts">Application open source créée par des amateurs et des bénévoles.</string>
 	<string name="connection_settings">Paramètres de connexion</string>
 	<string name="close">Fermer</string>
 	<string name="unsupported_phone">L\'accélération OpenGL matérielle est exigée. Malheureusement, votre appareil n\'est pas pris en charge.</string>
@@ -461,7 +461,7 @@
 	<string name="placepage_add_business_button">Ajouter une entreprise</string>
 	<string name="message_invalid_feature_position">Aucun objet ne peut être localisé ici</string>
 	<!-- Text in About and OSM Login screens. %@ is replaced by a local, human readable date. -->
-	<string name="osm_presentation">Les données cartographiques proviennent d\'OpenStreetMap au %s. C\'est comme Wikipedia pour les cartes où vous pouvez ajouter ou modifier des lieux pour tous les utilisateurs du monde.</string>
+	<string name="osm_presentation">Données cartographiques de l\'OpenStreetMap au %s. C\'est comme Wikipedia où vous pouvez ajouter ou modifier des lieux pour tous les utilisateurs du monde.</string>
 	<string name="login_to_make_edits_visible">Connectez vous à votre compte openstreetmap.org pour que d\'autres utilisateurs puissent voir vos changements.</string>
 	<!-- Downloaded 10 **of** 20 <- it is that "of" -->
 	<string name="downloader_of">%1$d de %2$d</string>

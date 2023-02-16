@@ -198,7 +198,7 @@ public class Framework
 //
 //  public static native void nativeUpdateSavedDataVersion();
 
-  public static native long nativeGetDataVersion();
+  private static native long nativeGetDataVersion();
 
   public static Date getDataVersion()
   {

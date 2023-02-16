@@ -37,15 +37,15 @@
 	<string name="try_again">Försök igen</string>
 	<string name="about_menu_title">Om Organic Maps</string>
 	<!-- Text in About screen -->
-	<string name="about_headline">Gratis för alla, gjord med kärlek.</string>
+	<string name="about_headline">Gratis för alla, gjorda med kärlek</string>
 	<!-- Text in About screen -->
-	<string name="about_proposition_1">• Inga annonser, ingen spårning</string>
+	<string name="about_proposition_1">• Inga annonser, ingen spårning, ingen datainsamling</string>
 	<!-- Text in About screen -->
-	<string name="about_proposition_2">• Laddar inte ur batteriet</string>
+	<string name="about_proposition_2">• Ingen batterilapp, ingen bakgrundsdata</string>
 	<!-- Text in About screen -->
-	<string name="about_proposition_3">• Snabb och minimalistisk</string>
+	<string name="about_proposition_3">• Snabb, minimalistisk, inget skräp</string>
 	<!-- Text in About screen -->
-	<string name="about_developed_by_enthusiasts">Skapad av entusiaster från öppen källkodsgemenskap.</string>
+	<string name="about_developed_by_enthusiasts">Open-källansökan skapad av entusiaster och frivilliga.</string>
 	<string name="connection_settings">Anslutningsinställningar</string>
 	<string name="close">Stäng</string>
 	<string name="unsupported_phone">Hårdvaruaccelererad OpenGL krävs. Din enhet stöds tyvärr inte.</string>
@@ -431,7 +431,7 @@
 	<string name="placepage_add_business_button">Lägg till organisation</string>
 	<string name="message_invalid_feature_position">Ett objekt kan inte placeras här</string>
 	<!-- Text in About and OSM Login screens. %@ is replaced by a local, human readable date. -->
-	<string name="osm_presentation">Kartdata är från OpenStreetMap från och med %s. Det är som Wikipedia för kartor där du kan lägga till eller redigera platser för alla användare över hela världen.</string>
+	<string name="osm_presentation">Kartografiska data från OpenStreetMap från och med %s. Det är som Wikipedia där du kan lägga till eller redigera platser för alla användare över hela världen.</string>
 	<string name="login_to_make_edits_visible">Logga in så att andra användare kan se de ändringar du gjort.</string>
 	<!-- Downloaded 10 **of** 20 <- it is that "of" -->
 	<string name="downloader_of">%1$d av %2$d</string>

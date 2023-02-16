@@ -37,15 +37,13 @@
 	<string name="try_again">Tentar novamente</string>
 	<string name="about_menu_title">Sobre o Organic Maps</string>
 	<!-- Text in About screen -->
-	<string name="about_headline">Gratuito para todos, feito com amor.</string>
+	<string name="about_headline">Grátis para todos, feito com amor</string>
 	<!-- Text in About screen -->
-	<string name="about_proposition_1">• Sem anúncios ou rastreamento</string>
+	<string name="about_proposition_1">• Baixo consumo de bateria, sem atualização em segundo plano</string>
 	<!-- Text in About screen -->
-	<string name="about_proposition_2">• Baixo consumo de bateria</string>
+	<string name="about_proposition_2">• Baixo consumo de bateria, sem atualização em segundo plano</string>
 	<!-- Text in About screen -->
-	<string name="about_proposition_3">• Rápido e minimalista</string>
-	<!-- Text in About screen -->
-	<string name="about_developed_by_enthusiasts">Criado por entusiastas da comunidade de código aberto.</string>
+	<string name="about_proposition_3">• Rápido, minimalista e sem recursos desnecessários</string>
 	<string name="connection_settings">Configurações de conexão</string>
 	<string name="close">Fechar</string>
 	<string name="unsupported_phone">É necessário OpenGL acelerado por hardware. Infelizmente o seu dispositivo não é compatível.</string>
@@ -449,8 +447,6 @@
 	<string name="editor_report_problem_other_title">Um problema diferente</string>
 	<string name="placepage_add_business_button">Adicionar uma empresa</string>
 	<string name="message_invalid_feature_position">Nenhum objeto pode ser posicionado aqui</string>
-	<!-- Text in About and OSM Login screens. %@ is replaced by a local, human readable date. -->
-	<string name="osm_presentation">Os dados do mapa são do OpenStreetMap a partir de %s. É como a Wikipedia para mapas onde você pode adicionar ou editar lugares para todos os usuários do mundo.</string>
 	<string name="login_to_make_edits_visible">Fazer login para que outros usuários vejam as mudanças que você fez.</string>
 	<!-- Downloaded 10 **of** 20 <- it is that "of" -->
 	<string name="downloader_of">%1$d de %2$d</string>

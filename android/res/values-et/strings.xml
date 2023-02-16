@@ -36,16 +36,6 @@
 	<!-- Button text for the button under the country_status_download_failed message -->
 	<string name="try_again">Proovi uuesti</string>
 	<string name="about_menu_title">Organic Maps kohta</string>
-	<!-- Text in About screen -->
-	<string name="about_headline">Tasuta kõigile, tehtud armastusega.</string>
-	<!-- Text in About screen -->
-	<string name="about_proposition_1">• Pole reklaame, pole jälgimist</string>
-	<!-- Text in About screen -->
-	<string name="about_proposition_2">• Ei tühjenda akut</string>
-	<!-- Text in About screen -->
-	<string name="about_proposition_3">• Kiire ja minimalistlik</string>
-	<!-- Text in About screen -->
-	<string name="about_developed_by_enthusiasts">Loodud avatud lähtekoodiga kogukonna entusiastide poolt.</string>
 	<string name="connection_settings">Ühenduse seaded</string>
 	<string name="close">Sulge</string>
 	<string name="unsupported_phone">Rakendus vajab riistvaralist OpenGL tuge. Kahjuks Sinu seade ei ole toetatud.</string>
@@ -456,8 +446,6 @@
 	<string name="editor_report_problem_other_title">Erinev probleem</string>
 	<string name="placepage_add_business_button">Lisa ettevõte</string>
 	<string name="message_invalid_feature_position">Ükski objekt ei saa siin asuda</string>
-	<!-- Text in About and OSM Login screens. %@ is replaced by a local, human readable date. -->
-	<string name="osm_presentation">Kaardiandmed pärinevad OpenStreetMapist seisuga %s. See on nagu Wikipedia kaartide jaoks, kuhu saate lisada või muuta kohti kõikide kasutajate jaoks üle maailma.</string>
 	<string name="login_to_make_edits_visible">Logi sisse OpenStreetMap.org keskkonda, et teised kasutajad näeksid Sinu tehtud muudatusi.</string>
 	<!-- Downloaded 10 **of** 20 <- it is that "of" -->
 	<string name="downloader_of">%1$d/%2$d</string>
