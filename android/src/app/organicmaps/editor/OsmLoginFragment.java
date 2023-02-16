@@ -55,8 +55,9 @@ public class OsmLoginFragment extends BaseMwmToolbarFragment
     Button registerButton = view.findViewById(R.id.register);
     registerButton.setOnClickListener((v) -> register());
     mProgress = view.findViewById(R.id.osm_login_progress);
+    final String dataVersion = DateUtils.getShortDateFormatter().format(Framework.getDataVersion());
     ((TextView) view.findViewById(R.id.osm_presentation))
-        .setText(getString(R.string.osm_presentation, DateUtils.getLocalDate(Framework.nativeGetDataVersion())));
+        .setText(getString(R.string.osm_presentation, dataVersion));
   }
 
   private void login()
